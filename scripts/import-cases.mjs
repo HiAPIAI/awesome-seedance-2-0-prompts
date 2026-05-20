@@ -1,13 +1,17 @@
 #!/usr/bin/env node
 // One-time import: parse an upstream README cache at .upstream-cache/README.md
-// and emit data/prompts.json.
+// (and README_zh-CN.md for filename mapping) and emit data/prompts.json.
 //
-// Media handling:
-//   - <video> tags: keep the anonymous github.com/user-attachments/assets/<uuid>
-//     URL as-is (these are GitHub's anonymous CDN; they do not leak the source
-//     repository).
-//   - <img> tags: rewrite the basename to ./assets/previews/<basename> and rely
-//     on the locally copied image (see assets/previews/, 11MB total).
+// Filename mapping strategy:
+//   - The English README uses anonymous github.com/user-attachments URLs
+//     (which 404 when hot-linked from another repo).
+//   - The localized READMEs reference the same cases with stable filenames
+//     under public/seedance_2_prompt_images/<basename>.jpg, where the matching
+//     mp4 lives at <basename>.mp4 in the same folder.
+//   - We parse the localized README to learn the canonical basename for each
+//     Case heading, then emit:
+//       preview_image  -> assets/previews/<basename>.jpg
+//       preview_video  -> release URL pointing at the same basename.mp4
 //
 // The .upstream-cache/ directory is .gitignored.
 import fs from "node:fs";
@@ -16,6 +20,16 @@ import path from "node:path";
 const root = path.resolve(new URL("..", import.meta.url).pathname);
 const importDir = path.join(root, ".upstream-cache");
 const readmePath = path.join(importDir, "README.md");
+// Multiple localized READMEs are tried in order: each replaces video tags
+// with image previews, but a few cases may still be video-only. Merging
+// across languages gives full coverage.
+const filenameMapReadmeFiles = [
+  "README_ja.md",
+  "README_zh-CN.md",
+  "README_ko.md",
+  "README_es.md",
+  "README_zh-TW.md",
+];
 const outPath = path.join(root, "data", "prompts.json");
 
 if (!fs.existsSync(readmePath)) {
@@ -24,6 +38,34 @@ if (!fs.existsSync(readmePath)) {
 }
 
 const md = fs.readFileSync(readmePath, "utf8");
+
+// Per-case filename map: header label "Case N: Title (by @handle)" -> basename.
+// We key by the HTML comment marker because it is identical across READMEs.
+const filenameMap = new Map();
+for (const file of filenameMapReadmeFiles) {
+  const p = path.join(importDir, file);
+  if (!fs.existsSync(p)) continue;
+  const text = fs.readFileSync(p, "utf8");
+  const blocks = text.split(/^(?=<!-- Case \d+: )/m).filter((b) => /^<!-- Case /.test(b));
+  let added = 0;
+  for (const block of blocks) {
+    const marker = block.match(/^<!--\s*(Case \d+:[^>]*?)\s*-->/);
+    if (!marker) continue;
+    const key = marker[1].trim();
+    if (filenameMap.has(key)) continue;
+    const fileMatch = block.match(/\/seedance_2_prompt_images\/([A-Za-z0-9_-]+)\.(?:jpg|png|jpeg)/i);
+    if (fileMatch) {
+      filenameMap.set(key, fileMatch[1]);
+      added += 1;
+    }
+  }
+  console.error(`Filename map: ${file} contributed ${added} new entries (total ${filenameMap.size})`);
+}
+
+// Release base used to construct preview_video URLs. Configurable via env so
+// the same script also works after the release tag rolls forward.
+const releaseTag = process.env.RELEASE_TAG || "v1.0-media";
+const releaseBase = process.env.RELEASE_BASE || `https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/${releaseTag}`;
 
 const categoryMap = [
   { heading: "## ⚔️ Action / Fantasy", id: "action-fantasy", zh: "动作与奇幻", en: "Action / Fantasy",
@@ -77,33 +119,37 @@ function slug(s) {
 
 const githubRawBase = "";
 
-function rewritePreview(html) {
-  // Prefer anonymous GitHub user-attachments video URLs.
-  const v = html.match(/<video[^>]*\ssrc="(https:\/\/github\.com\/user-attachments\/assets\/[^"]+)"/i);
-  if (v) return { kind: "video", url: v[1] };
-  // <img src="..."> — rewrite to local assets/previews/<basename>.
-  const img = html.match(/<img[^>]*\ssrc="([^"]+)"/i);
-  if (img) {
-    const base = path.basename(img[1].split("?")[0]);
-    return { kind: "image", url: `assets/previews/${base}` };
-  }
-  return { kind: null, url: "" };
-}
+// rewritePreview is no longer used; preview is derived from the filename map.
 
 const caseRegex = /^### Case (\d+):\s*\[([^\]]+)\]\(([^)]+)\)\s*\(by\s*\[([^\]]+)\]\(([^)]+)\)\)\s*$/m;
 
 function parseCases(slice, category) {
-  // Split slice by case headings
-  const blocks = slice.split(/^(?=### Case \d+:)/m).filter((b) => /^### Case /.test(b));
+  // Split keeping markers and headings as separate chunks, then merge each
+  // standalone marker with the immediately following heading block.
+  const raw = slice
+    .split(/^(?=<!-- Case \d+: |### Case \d+:)/m)
+    .filter((b) => /^(<!-- Case |### Case )/.test(b));
+  const blocks = [];
+  for (let i = 0; i < raw.length; i++) {
+    const b = raw[i];
+    if (b.startsWith("<!-- Case ") && raw[i + 1] && raw[i + 1].startsWith("### Case ")) {
+      blocks.push(b + raw[i + 1]);
+      i += 1;
+    } else if (b.startsWith("### Case ")) {
+      blocks.push(b);
+    }
+    // Stand-alone marker without a following heading is skipped.
+  }
   const items = [];
   for (const block of blocks) {
     const m = block.match(caseRegex);
     if (!m) continue;
     const [, num, title, sourceUrl, authorRaw, authorUrl] = m;
     const author = authorRaw.trim();
-    // preview: first <video> or <img> after the heading
-    const preview = rewritePreview(block);
-    // prompt: first fenced code block after **Prompt:**
+    // Look up the canonical filename via the HTML comment marker.
+    const markerMatch = block.match(/<!--\s*(Case \d+:[^>]*?)\s*-->/);
+    const markerKey = markerMatch ? markerMatch[1].trim() : "";
+    const filename = filenameMap.get(markerKey) || "";
     let prompt = "";
     const promptStart = block.indexOf("**Prompt:**");
     const searchFrom = promptStart >= 0 ? promptStart : 0;
@@ -115,7 +161,7 @@ function parseCases(slice, category) {
       sourceUrl,
       author,
       authorUrl,
-      preview,
+      filename,
       prompt,
       category: category.id,
     });
@@ -139,9 +185,17 @@ for (let i = 0; i < categoryMap.length; i++) {
 }
 
 // Build the JSON
+// Detect which filenames are video-backed by inspecting the upstream cache;
+// when an mp4 is missing we leave preview_video empty so the README falls back
+// to the image link.
+const cacheMediaDir = path.join(importDir, "public", "seedance_2_prompt_images");
+const hasMp4 = (filename) => filename && fs.existsSync(path.join(cacheMediaDir, `${filename}.mp4`));
+
 const items = [];
 for (const c of allItems) {
   const idBase = `${c.category}-case-${c.categoryCaseNum}-${slug(c.title)}-by-${slug(c.author.replace(/^@/, ""))}`;
+  const previewImage = c.filename ? `assets/previews/${c.filename}.jpg` : "";
+  const previewVideo = hasMp4(c.filename) ? `${releaseBase}/${c.filename}.mp4` : "";
   items.push({
     id: idBase,
     category: c.category,
@@ -153,8 +207,9 @@ for (const c of allItems) {
     title_zh: c.title,
     author: c.author,
     author_url: c.authorUrl,
-    preview: c.preview.url || "",
-    preview_kind: c.preview.kind || "image",
+    preview_filename: c.filename,
+    preview_image: previewImage,
+    preview_video: previewVideo,
     aspect_ratio: "16:9",
     seconds: "5",
     resolution: "720p",
@@ -187,3 +242,8 @@ console.log(`Imported ${items.length} cases across ${categoryMap.length} categor
 const byCat = new Map();
 for (const it of items) byCat.set(it.category, (byCat.get(it.category) || 0) + 1);
 for (const [k, v] of byCat) console.log(`  - ${k}: ${v}`);
+const missingFile = items.filter((i) => !i.preview_filename).length;
+console.log(`Filename mapping: ${items.length - missingFile}/${items.length} cases have a preview_filename`);
+if (missingFile) {
+  console.warn(`  ${missingFile} case(s) missing a filename — they will render with no preview.`);
+}

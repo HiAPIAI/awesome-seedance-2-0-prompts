@@ -167,11 +167,15 @@ function renderCaseCard(it, t, lang) {
   lines.push(`#### ${it.case_number}. ${title}`);
   lines.push("");
 
-  // Media as a left-floating block, no | Output | table.
-  if (it.preview && it.preview_kind === "video") {
-    lines.push(`<video src="${it.preview}" width="420" controls></video>`);
-  } else if (it.preview && it.preview_kind === "image") {
-    lines.push(`<a href="${it.source_url}"><img src="${it.preview}" width="420" alt="${title}"></a>`);
+  // Media: prefer video with poster image; fall back to image link if no video.
+  if (it.preview_video && it.preview_image) {
+    lines.push(
+      `<video src="${it.preview_video}" poster="${it.preview_image}" width="480" controls preload="none"></video>`
+    );
+  } else if (it.preview_image) {
+    lines.push(`<a href="${it.source_url}"><img src="${it.preview_image}" width="480" alt="${title}"></a>`);
+  } else if (it.preview_video) {
+    lines.push(`<video src="${it.preview_video}" width="480" controls preload="none"></video>`);
   }
   lines.push("");
 

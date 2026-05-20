@@ -53,7 +53,7 @@
 <a id="action-fantasy-case-1-street-rap-mv-performance-by-songguoxiansen"></a>
 #### 1. Street Rap MV Performance
 
-<video src="https://github.com/user-attachments/assets/541df943-58b6-4e38-b681-d48761994748" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/021.mp4" poster="assets/previews/021.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -71,7 +71,7 @@
 <a id="action-fantasy-case-2-black-cat-desert-martial-arts-duel-by-nopinduoduo"></a>
 #### 2. Black Cat Desert Martial-Arts Duel
 
-<video src="https://github.com/user-attachments/assets/af56e832-727d-4e60-b4d5-27c1bfb69cef" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/031.mp4" poster="assets/previews/031.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -89,7 +89,7 @@
 <a id="action-fantasy-case-3-live-action-breathing-technique-duel-by-johnagi168"></a>
 #### 3. Live-Action Breathing Technique Duel
 
-<video src="https://github.com/user-attachments/assets/e8d06a23-41ac-4fad-9235-9206cccbccaf" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/035.mp4" poster="assets/previews/035.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -127,7 +127,7 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 <a id="action-fantasy-case-4-anime-high-speed-cut-test-20-hard-cuts-in-10-seconds-0-by-tebasaki3d"></a>
 #### 4. Anime high-speed cut test — 20 hard cuts in 10 seconds (0
 
-<video src="https://github.com/user-attachments/assets/1b35b80f-143e-4e08-9a91-d8b355b166c1" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/039.mp4" poster="assets/previews/039.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -146,7 +146,7 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 <a id="action-fantasy-case-5-watch-a-grease-stained-mechanic-fix-by-sebatheepan"></a>
 #### 5. Watch a grease-stained mechanic fix
 
-<video src="https://github.com/user-attachments/assets/c84d5e19-9580-4b3a-81bc-ec834eef88d1" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/041.mp4" poster="assets/previews/041.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -169,7 +169,7 @@ From rusty disaster to purring monster in seconds.
 <a id="action-fantasy-case-6-samurai-revenge-short-film-by-sailorv321"></a>
 #### 6. Samurai Revenge Short Film
 
-<video src="https://github.com/user-attachments/assets/6b3ee158-2a64-4254-bee7-1050df01bd64" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/042.mp4" poster="assets/previews/042.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -188,7 +188,7 @@ The first half is a fierce battle on a battlefield covered in mud and flames. Th
 <a id="action-fantasy-case-7-stylized-3d-battle-animation-by-johnagi168"></a>
 #### 7. Stylized 3D Battle Animation
 
-<video src="https://github.com/user-attachments/assets/e810f4dd-240a-4bad-b88f-3b324a93a78b" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/047.mp4" poster="assets/previews/047.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -206,7 +206,7 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 <a id="action-fantasy-case-8-fast-paced-comedic-parody-short-by-drjoetw"></a>
 #### 8. Fast-Paced Comedic Parody Short
 
-<video src="https://github.com/user-attachments/assets/b4344516-4458-421e-948f-63f3664820ae" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/050.mp4" poster="assets/previews/050.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -230,7 +230,7 @@ Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in s
 <a id="action-fantasy-case-9-giant-ninja-tokusatsu-battle-by-earthgigantea"></a>
 #### 9. Giant Ninja Tokusatsu Battle
 
-<video src="https://github.com/user-attachments/assets/e24e8e78-f61d-44b3-a396-83037aa8a79f" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/OPGJe_kwdEgXZcfi.mp4" poster="assets/previews/OPGJe_kwdEgXZcfi.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -258,7 +258,7 @@ Visual Style:
 <a id="action-fantasy-case-10-japanese-anime-dialogue-sequence-by-3912657840"></a>
 #### 10. Japanese Anime Dialogue Sequence
 
-<video src="https://github.com/user-attachments/assets/2d1a36c4-bc73-46fb-a17c-f633a74a9d65" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/056.mp4" poster="assets/previews/056.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -276,7 +276,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 <a id="action-fantasy-case-11-15-second-original-elemental-battle-short-film-by-zikinart"></a>
 #### 11. 15-Second Original Elemental Battle Short Film
 
-<a href="https://x.com/ZikinArt/status/2040006818953322644"><img src="assets/previews/058.jpg" width="420" alt="15-Second Original Elemental Battle Short Film"></a>
+<a href="https://x.com/ZikinArt/status/2040006818953322644"><img src="assets/previews/058.jpg" width="480" alt="15-Second Original Elemental Battle Short Film"></a>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -294,7 +294,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 <a id="action-fantasy-case-12-faberge-fantasy-egg-animation-by-shamiweb3"></a>
 #### 12. Faberge Fantasy Egg Animation
 
-<video src="https://github.com/user-attachments/assets/e7b3c2f7-be43-4ace-b33b-4faf5631a22e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/064.mp4" poster="assets/previews/064.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -312,7 +312,7 @@ Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Ea
 <a id="action-fantasy-case-13-original-elemental-battle-short-film-by-david-eficaz"></a>
 #### 13. Original Elemental Battle Short Film
 
-<video src="https://github.com/user-attachments/assets/e3582b08-2c82-45af-a634-48c4dc2b0c39" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/074.mp4" poster="assets/previews/074.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -330,7 +330,7 @@ Original 15-second short film about an elemental battle: In a volcanic mountain 
 <a id="action-fantasy-case-14-cinematic-sci-fi-fantasy-duel-by-charaspowerai"></a>
 #### 14. Cinematic Sci-Fi Fantasy Duel
 
-<video src="https://github.com/user-attachments/assets/396caacc-ba29-4e06-9051-b7a805ad23ee" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/076.mp4" poster="assets/previews/076.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -359,7 +359,7 @@ Ultra realistic, high-end cinematic action, precise choreography, glowing energy
 <a id="action-fantasy-case-15-15-second-continuous-single-shot-action-sequence-by-artedeingenio"></a>
 #### 15. 15-second continuous single-shot action sequence
 
-<video src="https://github.com/user-attachments/assets/9679c151-8f62-4e1e-ba42-9bb0a263dd74" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/078.mp4" poster="assets/previews/078.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -386,7 +386,7 @@ Dense forest → cliff edge → open valley
 <a id="action-fantasy-case-16-lone-samurai-cliffside-standoff-by-alin-reaper05"></a>
 #### 16. Lone Samurai Cliffside Standoff
 
-<video src="https://github.com/user-attachments/assets/503d4bb0-7861-404c-bf13-5527524b4a7a" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/079.mp4" poster="assets/previews/079.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -404,7 +404,7 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 <a id="action-fantasy-case-17-aerial-rogue-dragon-dive-by-sebatheepan"></a>
 #### 17. Aerial Rogue Dragon Dive
 
-<video src="https://github.com/user-attachments/assets/3ad8a0db-47d3-4ff1-aa7f-c50ee946f98f" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/085.mp4" poster="assets/previews/085.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -422,7 +422,7 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 <a id="action-fantasy-case-18-zero-g-mech-scramble-sequence-by-dheepanratnam"></a>
 #### 18. Zero-G Mech Scramble Sequence
 
-<a href="https://x.com/Dheepanratnam/status/2044338893764383111"><img src="assets/previews/ofW5CfXPYCWpNX7M.jpg" width="420" alt="Zero-G Mech Scramble Sequence"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/ofW5CfXPYCWpNX7M.mp4" poster="assets/previews/ofW5CfXPYCWpNX7M.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -460,7 +460,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the targeting screen close 
 <a id="action-fantasy-case-19-a-super-high-speed-flight-action-scene-of-a-girl-riding-a-dragon-by-naoyuki-okada"></a>
 #### 19. A super high-speed flight action scene of a girl riding a dragon
 
-<video src="https://github.com/user-attachments/assets/5b02e907-dca3-44a6-bf6e-3960466f3426" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/086.mp4" poster="assets/previews/086.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -479,7 +479,7 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 <a id="action-fantasy-case-20-15-second-original-desert-martial-arts-short-film-by-nimeshed"></a>
 #### 20. 15-Second Original Desert Martial Arts Short Film
 
-<video src="https://github.com/user-attachments/assets/6d589f8e-3c07-438a-ace8-1167a96707e6" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/091.mp4" poster="assets/previews/091.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -497,7 +497,7 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 <a id="action-fantasy-case-21-canyon-airstrike-sequence-by-mr-tuandoan"></a>
 #### 21. Canyon Airstrike Sequence
 
-<video src="https://github.com/user-attachments/assets/e6153d0b-1f6f-4559-b0f4-2a1ed64e42dd" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/RpLzRvgpJopkYzwc.mp4" poster="assets/previews/RpLzRvgpJopkYzwc.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -531,7 +531,7 @@ SHOT 07 (13-15s) wide aerial — jet exits frame at insane speed, heat haze trai
 <a id="action-fantasy-case-22-a-15-second-hyper-realistic-epic-war-blockbuster-by-john87445528"></a>
 #### 22. A 15-second hyper-realistic epic war blockbuster
 
-<a href="https://x.com/john87445528/status/2039348028574744685"><img src="assets/previews/110.jpg" width="420" alt="A 15-second hyper-realistic epic war blockbuster"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/110.mp4" poster="assets/previews/110.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -549,7 +549,7 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 <a id="action-fantasy-case-23-office-coffee-break-gone-wrongshot-1-by-dheepanratnam"></a>
 #### 23. Office Coffee Break Gone Wrongshot 1
 
-<video src="https://github.com/user-attachments/assets/d2c60b58-6d7f-4eba-9d59-ea3f009b9fcd" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/117.mp4" poster="assets/previews/117.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -567,7 +567,7 @@ Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt s
 <a id="action-fantasy-case-24-15-second-continuous-single-shot-action-sequence-by-artedeingenio"></a>
 #### 24. 15-second continuous single-shot action sequence
 
-<video src="https://github.com/user-attachments/assets/0de462a3-11f6-44ad-87c1-ad11d1a4dfeb" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/119.mp4" poster="assets/previews/119.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -590,7 +590,7 @@ Weighty creature movement, believable scale,
 <a id="action-fantasy-case-25-black-swan-vs-boxer-by-kanaworks-ai"></a>
 #### 25. Black Swan vs Boxer
 
-<video src="https://github.com/user-attachments/assets/1b4cd53d-3a7a-4cc3-8d46-d7d3bb39d620" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/iILeAyierBn5imMB.mp4" poster="assets/previews/iILeAyierBn5imMB.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -621,7 +621,7 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 <a id="action-fantasy-case-26-ground-crack-superman-launch-by-techprophett"></a>
 #### 26. Ground Crack Superman Launch
 
-<video src="https://github.com/user-attachments/assets/44609de1-cac8-49e6-8d68-c5e67aa0234e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/JnftRXbRJtRUNj2a.mp4" poster="assets/previews/JnftRXbRJtRUNj2a.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -649,7 +649,7 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 <a id="action-fantasy-case-27-cloud-cave-sword-shadow-by-adam38363368936"></a>
 #### 27. Cloud Cave Sword Shadow
 
-<video src="https://github.com/user-attachments/assets/e6b3e463-547f-42c9-bbac-ffa18b9729a5" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/081.mp4" poster="assets/previews/081.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -711,7 +711,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 <a id="action-fantasy-case-28-city-of-gods-one-take-oriental-fantasy-flight-by-john87445528"></a>
 #### 28. City of Gods — One-Take Oriental Fantasy Flight
 
-<a href="https://x.com/john87445528/status/2041000256930763046"><img src="assets/previews/2041000256930763046.jpg" width="420" alt="City of Gods — One-Take Oriental Fantasy Flight"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041000256930763046.mp4" poster="assets/previews/2041000256930763046.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -739,7 +739,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 <a id="action-fantasy-case-29-epic-fantasy-battle-cinematic-10-second-sequence-by-a-shimanski"></a>
 #### 29. Epic Fantasy Battle — Cinematic 10-Second Sequence
 
-<video src="https://github.com/user-attachments/assets/a4526502-66f4-4861-ac21-a964e17703ad" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041431226507051027.mp4" poster="assets/previews/2041431226507051027.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -759,7 +759,7 @@ Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rin
 <a id="action-fantasy-case-30-dark-fantasy-transformation-eastern-style-by-johnagi168"></a>
 #### 30. Dark Fantasy Transformation — Eastern Style
 
-<video src="https://github.com/user-attachments/assets/695c26d9-bf1b-4389-8ce7-af0e5d9a8356" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041146946681721113.mp4" poster="assets/previews/2041146946681721113.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -792,7 +792,7 @@ Seedance 2.0 prompt 👇
 <a id="cinematic-realism-case-1-modern-japan-documentary-sequence-by-kuranoayashi"></a>
 #### 1. Modern Japan Documentary Sequence
 
-<video src="https://github.com/user-attachments/assets/8932d394-fd35-4d24-98f8-a2206b839f5d" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/045.mp4" poster="assets/previews/045.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -812,7 +812,7 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 <a id="cinematic-realism-case-2-shadow-tracking-longboard-descent-by-dheepanratnam"></a>
 #### 2. Shadow-Tracking Longboard Descent
 
-<a href="https://x.com/Dheepanratnam/status/2039982273076810119"><img src="assets/previews/073.jpg" width="420" alt="Shadow-Tracking Longboard Descent"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/073.mp4" poster="assets/previews/073.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -834,7 +834,7 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 <a id="cinematic-realism-case-3-meteor-awakening-war-heroine-by-christhenerv"></a>
 #### 3. Meteor Awakening War Heroine
 
-<a href="https://x.com/ChrisTheNerv/status/2040043939109953944"><img src="assets/previews/075.jpg" width="420" alt="Meteor Awakening War Heroine"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/075.mp4" poster="assets/previews/075.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -882,7 +882,7 @@ Layered progression from the scream activation to the explosive mechanical erupt
 <a id="pov-fpv-case-1-chest-mounted-camouflage-chase-sequence-by-genel-ai"></a>
 #### 1. Chest-Mounted Camouflage Chase Sequence
 
-<a href="https://x.com/genel_ai/status/2039538309790404797"><img src="assets/previews/004.jpg" width="420" alt="Chest-Mounted Camouflage Chase Sequence"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/004.mp4" poster="assets/previews/004.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -911,7 +911,7 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 <a id="pov-fpv-case-2-shanghai-cyberpunk-city-sizzle-reel-by-adam38363368936"></a>
 #### 2. Shanghai Cyberpunk City Sizzle Reel
 
-<video src="https://github.com/user-attachments/assets/477e9711-1d52-4bf0-bdda-0c0bbdf93a9a" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/005.mp4" poster="assets/previews/005.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -941,7 +941,7 @@ Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with f
 <a id="pov-fpv-case-3-cursed-samurai-consistency-action-prompt-by-just-sharon7"></a>
 #### 3. Cursed Samurai Consistency Action Prompt
 
-<video src="https://github.com/user-attachments/assets/5af0eb61-3bc6-4174-80af-6f40aa602863" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/006.mp4" poster="assets/previews/006.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -959,7 +959,7 @@ Strictly follow the reference character’s face, hairstyle, outfit silhouette, 
 <a id="pov-fpv-case-4-sun-wukong-battlefield-divine-rescue-by-drjoetw"></a>
 #### 4. Sun Wukong Battlefield Divine Rescue
 
-<video src="https://github.com/user-attachments/assets/93944843-fd86-4dca-b73e-42b883b26531" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/009.mp4" poster="assets/previews/009.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -985,7 +985,7 @@ Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 <a id="pov-fpv-case-5-y2k-pool-party-camcorder-montage-by-johnagi168"></a>
 #### 5. Y2K Pool Party Camcorder Montage
 
-<video src="https://github.com/user-attachments/assets/4a8faa66-0ad4-4a5c-ba05-1bb08e7698c2" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/010.mp4" poster="assets/previews/010.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1026,7 +1026,7 @@ A rapid crane rise opens the entire pool party in golden-hour warm light, full o
 <a id="pov-fpv-case-6-tesla-card-pov-city-burst-by-xingsthatmatter"></a>
 #### 6. Tesla Card POV City Burst
 
-<video src="https://github.com/user-attachments/assets/0f1287b2-7156-455b-a756-626a127de908" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/038.mp4" poster="assets/previews/038.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1046,7 +1046,7 @@ The camera bursts out from inside image1, the Tesla card, as the card spins forw
 <a id="pov-fpv-case-7-anime-mv-extreme-close-up-sequence-by-drjoetw"></a>
 #### 7. Anime MV Extreme Close-Up Sequence
 
-<video src="https://github.com/user-attachments/assets/db3b143b-f0fc-4d6e-8aa5-9589838da446" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/049.mp4" poster="assets/previews/049.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1123,7 +1123,7 @@ Freeze frame → dramatic music abruptly cuts.
 <a id="pov-fpv-case-8-create-a-fast-seamless-16-by-aisavvy1"></a>
 #### 8. Create A Fast, Seamless 16
 
-<video src="https://github.com/user-attachments/assets/073b65e0-40a2-426a-8080-122c217307fc" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/052.mp4" poster="assets/previews/052.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1147,7 +1147,7 @@ Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cine
 <a id="pov-fpv-case-9-medieval-fantasy-city-descent-by-ludoviccreator"></a>
 #### 9. Medieval Fantasy City Descent
 
-<video src="https://github.com/user-attachments/assets/45a53345-07e9-4309-99c2-1b94e7ad2a1b" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/069.mp4" poster="assets/previews/069.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1187,7 +1187,7 @@ Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, rea
 <a id="pov-fpv-case-10-first-person-pov-of-an-ice-cube-dropped-into-a-glass-of-soda-by-ludoviccreator"></a>
 #### 10. First-person POV of an ice cube dropped into a glass of soda
 
-<video src="https://github.com/user-attachments/assets/3f062168-22c1-4599-b63b-819d33236924" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/093.mp4" poster="assets/previews/093.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1217,7 +1217,7 @@ Macro drink environment POV, carbonation bubble storms, melting ice transformati
 <a id="pov-fpv-case-11-gritty-raw-handheld-35mm-film-aesthetic-with-natural-film-grain-by-angelnwoha"></a>
 #### 11. Gritty, raw handheld 35mm film aesthetic with natural film grain
 
-<video src="https://github.com/user-attachments/assets/73d371c6-dd8f-4caa-b092-b5650e53569e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/102.mp4" poster="assets/previews/102.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1235,7 +1235,7 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 <a id="pov-fpv-case-12-10-second-photorealistic-cinematic-pov-video-by-umitsuru-fire"></a>
 #### 12. 10-second photorealistic cinematic POV video
 
-<video src="https://github.com/user-attachments/assets/e555486a-74bb-47bd-a462-67fc196b2f81" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/105.mp4" poster="assets/previews/105.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1253,7 +1253,7 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 <a id="pov-fpv-case-13-a-super-futuristic-megacity-after-the-apocalypse-awakens-in-a-storm-by-johnagi168"></a>
 #### 13. A super futuristic megacity after the apocalypse awakens in a storm
 
-<video src="https://github.com/user-attachments/assets/69f35065-5f67-4553-bc64-241d55cf26bc" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/108.mp4" poster="assets/previews/108.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1271,7 +1271,7 @@ A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds
 <a id="pov-fpv-case-14-style-ultra-realistic-industrial-timelapse-by-craftian-keskin"></a>
 #### 14. Style: Ultra-realistic industrial timelapse
 
-<video src="https://github.com/user-attachments/assets/8175b4b3-c633-49d8-901b-20b755fde804" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/111.mp4" poster="assets/previews/111.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1345,7 +1345,7 @@ Camera holds briefly as car exits frame
 <a id="pov-fpv-case-15-monster-attack-schoolgirl-transformation-by-yuupapa-free"></a>
 #### 15. Monster Attack Schoolgirl Transformation
 
-<a href="https://x.com/Yuupapa_free/status/2039329682492121547"><img src="assets/previews/113.jpg" width="420" alt="Monster Attack Schoolgirl Transformation"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/113.mp4" poster="assets/previews/113.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1363,7 +1363,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 <a id="pov-fpv-case-16-tokyo-pov-rollercoaster-by-techtalknavi"></a>
 #### 16. Tokyo POV Rollercoaster
 
-<video src="https://github.com/user-attachments/assets/a141e8c4-0dcd-42fa-b099-480209501c16" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/061.mp4" poster="assets/previews/061.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1390,7 +1390,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 <a id="pov-fpv-case-17-cinematic-beijing-cultural-ad-8k-first-person-by-crayon1267"></a>
 #### 17. Cinematic Beijing Cultural Ad — 8K First-Person
 
-<video src="https://github.com/user-attachments/assets/c042f41d-52ad-47d9-a4ad-074c59d573c2" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2040826411783762286.mp4" poster="assets/previews/2040826411783762286.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1408,7 +1408,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 <a id="pov-fpv-case-18-extreme-macro-fpv-fairy-wing-tracking-shot-by-ehuanglu"></a>
 #### 18. Extreme Macro FPV — Fairy Wing Tracking Shot
 
-<video src="https://github.com/user-attachments/assets/1a1089b9-98e9-4aed-8212-99a6b9785542" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041132328655954201.mp4" poster="assets/previews/2041132328655954201.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1435,7 +1435,7 @@ extreme macro FPV tracking shot, camera tightly attached to the fairy's back, sy
 <a id="commercial-product-case-1-perfume-style-anime-trio-dance-stage-by-shadelurk"></a>
 #### 1. Perfume-Style Anime Trio Dance Stage
 
-<video src="https://github.com/user-attachments/assets/10ece9bd-dd8d-4c1c-a094-b0d8c85dec01" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/007.mp4" poster="assets/previews/007.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1458,7 +1458,7 @@ Three anime girls perform Perfume-style formation dance on an illuminated stage.
 <a id="commercial-product-case-2-dark-fantasy-church-duel-by-zarairahh"></a>
 #### 2. Dark Fantasy Church Duel
 
-<video src="https://github.com/user-attachments/assets/ca91b7f8-d3ea-4ed0-a3b4-697e72e6e5db" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/008.mp4" poster="assets/previews/008.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1476,7 +1476,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 <a id="commercial-product-case-3-dark-fantasy-shrine-hall-duel-by-miramusic-ai"></a>
 #### 3. Dark Fantasy Shrine Hall Duel
 
-<video src="https://github.com/user-attachments/assets/95dc5dc9-ebb4-4423-8384-f2806e049005" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/012.mp4" poster="assets/previews/012.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1497,7 +1497,7 @@ A strong hook within the first 2 seconds, followed by a stable and cohesive prog
 <a id="commercial-product-case-4-japanese-snack-commercial-punchline-by-aigeboku"></a>
 #### 4. Japanese Snack Commercial Punchline
 
-<video src="https://github.com/user-attachments/assets/8308c1cd-64ac-42eb-a795-629d618fcd09" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/014.mp4" poster="assets/previews/014.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1522,7 +1522,7 @@ Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New releas
 <a id="commercial-product-case-5-cinematic-martial-art-sequence-for-seedance-2-by-charaspowerai"></a>
 #### 5. Cinematic Martial Art Sequence for Seedance 2
 
-<video src="https://github.com/user-attachments/assets/7fcb7e15-6170-4eb5-9477-6b29920051f1" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/017.mp4" poster="assets/previews/017.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1551,7 +1551,7 @@ Ultra realistic, high-end martial arts film choreography, precise body mechanics
 <a id="commercial-product-case-6-i-asked-grok-to-produce-the-same-video-but-the-result-wasn-t-convincing-by-viafin23"></a>
 #### 6. I asked Grok to produce the same video, but the result wasn't convincing
 
-<video src="https://github.com/user-attachments/assets/dbe90116-bba0-47dd-a4ab-25231720910e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/020.mp4" poster="assets/previews/020.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1576,7 +1576,7 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 <a id="commercial-product-case-7-japanese-classroom-whisper-romance-by-jiahaoyang-art"></a>
 #### 7. Japanese Classroom Whisper Romance
 
-<video src="https://github.com/user-attachments/assets/4e3bb308-ba70-43b2-9fdd-898a62ad3858" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/022.mp4" poster="assets/previews/022.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1600,7 +1600,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 <a id="commercial-product-case-8-recommended-settings-mode-by-miramusic-ai"></a>
 #### 8. Recommended Settings Mode
 
-<video src="https://github.com/user-attachments/assets/e4051b2b-abd0-4156-9e22-6d7f62c01023" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/025.mp4" poster="assets/previews/025.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1618,7 +1618,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 <a id="commercial-product-case-9-laferrari-commercial-storyboard-by-adam38363368936"></a>
 #### 9. LaFerrari Commercial Storyboard
 
-<video src="https://github.com/user-attachments/assets/374c6ee4-2486-4cd5-a7a1-13bd594d40fd" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/030.mp4" poster="assets/previews/030.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1662,7 +1662,7 @@ Highest image quality: 8K.
 <a id="commercial-product-case-10-hot-blooded-anime-final-duel-by-gkxspace"></a>
 #### 10. Hot-Blooded Anime Final Duel
 
-<video src="https://github.com/user-attachments/assets/18a1c5a9-6c7f-4222-806a-e91aa246540e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/032.mp4" poster="assets/previews/032.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1682,7 +1682,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 <a id="commercial-product-case-11-porcelain-couture-sky-mirror-runway-by-johnagi168"></a>
 #### 11. Porcelain Couture Sky Mirror Runway
 
-<video src="https://github.com/user-attachments/assets/f7da95e3-bbc5-407d-b221-572299d9ee2b" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/033.mp4" poster="assets/previews/033.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1700,7 +1700,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 <a id="commercial-product-case-12-modern-rural-creator-harvest-ad-by-johnagi168"></a>
 #### 12. Modern Rural Creator Harvest Ad
 
-<video src="https://github.com/user-attachments/assets/d0f36d24-4ee2-4435-a6d4-9b1abc4a7aa5" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/034.mp4" poster="assets/previews/034.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1741,7 +1741,7 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 <a id="commercial-product-case-13-neon-street-racing-sequence-by-charaspowerai"></a>
 #### 13. Neon Street Racing Sequence
 
-<video src="https://github.com/user-attachments/assets/99789166-adfc-4ad3-bd7b-8fd2ffcb41bc" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/036.mp4" poster="assets/previews/036.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1771,7 +1771,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 <a id="commercial-product-case-14-supermodel-and-luxury-sports-cars-by-johnagi168"></a>
 #### 14. Supermodel and Luxury Sports Cars
 
-<video src="https://github.com/user-attachments/assets/f5c6469b-298c-4985-ac86-934c10fa7e28" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/046.mp4" poster="assets/previews/046.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1789,7 +1789,7 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 <a id="commercial-product-case-15-android-girl-lab-destruction-chase-by-aiehon-aya"></a>
 #### 15. Android Girl Lab Destruction Chase
 
-<video src="https://github.com/user-attachments/assets/2b199d58-e903-4f0e-acba-3b36918ce368" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/054.mp4" poster="assets/previews/054.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1807,7 +1807,7 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 <a id="commercial-product-case-16-neon-ruined-city-game-trailer-by-adrianaia"></a>
 #### 16. Neon Ruined City Game Trailer
 
-<video src="https://github.com/user-attachments/assets/08de775d-642c-404c-ba56-8201f75cf7e0" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/055.mp4" poster="assets/previews/055.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1825,7 +1825,7 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 <a id="commercial-product-case-17-original-dark-fantasy-action-short-film-by-rufus87078959"></a>
 #### 17. Original Dark Fantasy Action Short Film
 
-<video src="https://github.com/user-attachments/assets/2f37da25-0603-408d-9097-2565b4b3e34f" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/066.mp4" poster="assets/previews/066.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1843,7 +1843,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 <a id="commercial-product-case-18-00-00-00-04-shot-1-follow-shot-by-iamemily2050"></a>
 #### 18. 00:00-00:04 Shot 1: Follow shot
 
-<a href="https://x.com/IamEmily2050/status/2040213294443847933"><img src="assets/previews/070.jpg" width="420" alt="00:00-00:04 Shot 1: Follow shot"></a>
+<a href="https://x.com/IamEmily2050/status/2040213294443847933"><img src="assets/previews/070.jpg" width="480" alt="00:00-00:04 Shot 1: Follow shot"></a>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1861,7 +1861,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 <a id="commercial-product-case-19-meteor-awakening-war-heroine-by-christhenerv"></a>
 #### 19. Meteor Awakening War Heroine
 
-<a href="https://x.com/ChrisTheNerv/status/2040043939109953944"><img src="assets/previews/075.jpg" width="420" alt="Meteor Awakening War Heroine"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/075.mp4" poster="assets/previews/075.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1900,7 +1900,7 @@ Layered progression from the scream activation to the explosive mechanical erupt
 <a id="commercial-product-case-20-cloud-cave-sword-shadow-by-adam38363368936"></a>
 #### 20. Cloud Cave Sword Shadow
 
-<video src="https://github.com/user-attachments/assets/e6b3e463-547f-42c9-bbac-ffa18b9729a5" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/081.mp4" poster="assets/previews/081.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1962,7 +1962,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 <a id="commercial-product-case-21-train-top-tactical-fight-sequence-by-imperfectengel"></a>
 #### 21. Train-Top Tactical Fight Sequence
 
-<video src="https://github.com/user-attachments/assets/f4a97fd1-d6c1-41e3-8203-9da8f2c0ed07" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/095.mp4" poster="assets/previews/095.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -1980,7 +1980,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 <a id="commercial-product-case-22-manhattan-trading-floor-frenzy-by-johnagi168"></a>
 #### 22. Manhattan Trading Floor Frenzy
 
-<video src="https://github.com/user-attachments/assets/f55ccbba-2d16-415d-b2fa-8f7593bed849" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/109.mp4" poster="assets/previews/109.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -2002,7 +2002,7 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 <a id="commercial-product-case-23-poliziottesco-wednesday-by-chrisgwinnla"></a>
 #### 23. (Poliziottesco Wednesday)
 
-<video src="https://github.com/user-attachments/assets/13401970-1a18-47a8-8cd0-0f699be26f40" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/118.mp4" poster="assets/previews/118.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -2021,7 +2021,7 @@ A crime wave has hit the city and the cops can't seem to get it together. Detect
 <a id="commercial-product-case-24-foldable-smartphone-fashion-ad-by-adam38363368936"></a>
 #### 24. Foldable Smartphone Fashion Ad
 
-<video src="https://github.com/user-attachments/assets/de746ef6-c5f8-40df-a818-3577884c6b5b" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/121.mp4" poster="assets/previews/121.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -2051,7 +2051,7 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 <a id="commercial-product-case-25-travel-suitcase-buddy-montage-by-chaseaix"></a>
 #### 25. Travel Suitcase Buddy Montage
 
-<video src="https://github.com/user-attachments/assets/341e9b9e-acc6-465b-be58-b18233bcb4d1" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/sAVFzyGI01SXuQGa.mp4" poster="assets/previews/sAVFzyGI01SXuQGa.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -2097,7 +2097,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The m
 <a id="commercial-product-case-26-laferrari-commercial-storyboard-by-adam38363368936"></a>
 #### 26. LaFerrari Commercial Storyboard
 
-<video src="https://github.com/user-attachments/assets/374c6ee4-2486-4cd5-a7a1-13bd594d40fd" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/030.mp4" poster="assets/previews/030.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -2141,7 +2141,7 @@ Highest image quality: 8K.
 <a id="commercial-product-case-27-foldable-smartphone-fashion-ad-by-adam38363368936"></a>
 #### 27. Foldable Smartphone Fashion Ad
 
-<video src="https://github.com/user-attachments/assets/de746ef6-c5f8-40df-a818-3577884c6b5b" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/121.mp4" poster="assets/previews/121.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -2171,7 +2171,7 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 <a id="commercial-product-case-28-top-down-fashion-lookbook-outfit-change-sequence-by-johnagi168"></a>
 #### 28. Top-Down Fashion Lookbook — Outfit Change Sequence
 
-<video src="https://github.com/user-attachments/assets/7f486efd-713c-4aa0-9d98-d3aa4a2992e1" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2040767631213363656.mp4" poster="assets/previews/2040767631213363656.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -2225,7 +2225,7 @@ prompt 👇
 <a id="commercial-product-case-29-premium-lifestyle-commercial-vlog-selfie-style-by-johnagi168"></a>
 #### 29. Premium Lifestyle Commercial — Vlog Selfie Style
 
-<video src="https://github.com/user-attachments/assets/8b823a0d-f1b2-4f87-adc6-6f135311baf6" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041374063243800793.mp4" poster="assets/previews/2041374063243800793.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -2280,7 +2280,7 @@ prompt 👇
 <a id="reference-driven-case-1-skeleton-pianist-miniature-diorama-performance-by-tea-story-hoshi"></a>
 #### 1. Skeleton Pianist Miniature Diorama Performance
 
-<video src="https://github.com/user-attachments/assets/d9aed4e0-babd-4e27-806f-89596026d093" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/011.mp4" poster="assets/previews/011.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2310,7 +2310,7 @@ Timeline:
 <a id="reference-driven-case-2-storm-ship-princess-vs-kraken-by-applete77191758"></a>
 #### 2. Storm Ship Princess vs Kraken
 
-<a href="https://x.com/applete77191758/status/2040450526819807277"><img src="assets/previews/015.jpg" width="420" alt="Storm Ship Princess vs Kraken"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/015.mp4" poster="assets/previews/015.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2392,7 +2392,7 @@ Motion blur + light streaks
 <a id="reference-driven-case-3-maid-blade-dance-mei-vs-coco-by-miramusic-ai"></a>
 #### 3. Maid Blade Dance: Mei vs Coco
 
-<video src="https://github.com/user-attachments/assets/6d4fe7b1-0a0c-4a5d-90c2-6e37fa621320" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/019.mp4" poster="assets/previews/019.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2476,7 +2476,7 @@ Notes:
 <a id="reference-driven-case-4-apocalyptic-rooftop-piano-farewell-by-liyue-ai"></a>
 #### 4. Apocalyptic Rooftop Piano Farewell
 
-<video src="https://github.com/user-attachments/assets/6037b604-6551-4dc0-b7dc-4cb25c7f8278" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/028.mp4" poster="assets/previews/028.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2514,7 +2514,7 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 <a id="reference-driven-case-5-cinematic-8mm-fisheye-lens-fpv-racing-drone-camera-hyper-fluid-motion-by-itspixieverse"></a>
 #### 5. CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion
 
-<video src="https://github.com/user-attachments/assets/b5463748-011f-4c63-92da-1a2ca8254025" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/048.mp4" poster="assets/previews/048.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2536,7 +2536,7 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 <a id="reference-driven-case-6-reference-driven-kung-fu-stunt-sequence-by-yareyaru30life"></a>
 #### 6. Reference-Driven Kung Fu Stunt Sequence
 
-<a href="https://x.com/YaReYaRu30Life/status/2039971048305930643"><img src="assets/previews/059.jpg" width="420" alt="Reference-Driven Kung Fu Stunt Sequence"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/059.mp4" poster="assets/previews/059.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2559,7 +2559,7 @@ Constant full-speed forward
 <a id="reference-driven-case-7-ray-tracing-unreal-engine-render-small-town-in-heavy-rain-by-gwsubsa"></a>
 #### 7. Ray tracing, Unreal Engine render, small town in heavy rain
 
-<video src="https://github.com/user-attachments/assets/c841acf4-1b3b-4d9f-a7dd-297e839a2698" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/071.mp4" poster="assets/previews/071.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2577,7 +2577,7 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character w
 <a id="reference-driven-case-8-moon-convenience-store-night-shift-by-zasuko-michiksa"></a>
 #### 8. Moon Convenience Store Night Shift
 
-<video src="https://github.com/user-attachments/assets/3b249776-465f-4b3d-8285-f70ab8a178da" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/084.mp4" poster="assets/previews/084.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2595,7 +2595,7 @@ Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start w
 <a id="reference-driven-case-9-rooftop-awakening-to-f-14-transformation-by-john87445528"></a>
 #### 9. Rooftop Awakening to F-14 Transformation
 
-<a href="https://x.com/john87445528/status/2039496153641660508"><img src="assets/previews/088.jpg" width="420" alt="Rooftop Awakening to F-14 Transformation"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/088.mp4" poster="assets/previews/088.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2617,7 +2617,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 <a id="reference-driven-case-10-armor-assembly-street-counterattack-by-egeberkina"></a>
 #### 10. Armor Assembly Street Counterattack
 
-<video src="https://github.com/user-attachments/assets/1b4cd53d-3a7a-4cc3-8d46-d7d3bb39d620" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/TfQ7cL05pwwcaq06.mp4" poster="assets/previews/TfQ7cL05pwwcaq06.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2714,7 +2714,7 @@ low cinematic pulse builds cuts abruptly at end
 <a id="reference-driven-case-11-character-reference-image-1-convert-to-real-person-live-action-style-by-adam38363368936"></a>
 #### 11. Character reference @Image 1, convert to real-person live-action style
 
-<video src="https://github.com/user-attachments/assets/35622287-f25f-4a2b-a0b9-4cf15e214326" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/103.mp4" poster="assets/previews/103.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2751,7 +2751,7 @@ Shot Breakdown (15 shots in 15 seconds):
 <a id="reference-driven-case-12-polar-bear-match-cut-sword-duel-template-by-aimikoda"></a>
 #### 12. Polar Bear Match-Cut Sword Duel Template
 
-<video src="https://github.com/user-attachments/assets/3eb2eef0-7e63-4f83-beb8-c0b3489df780" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/112.mp4" poster="assets/previews/112.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2771,7 +2771,7 @@ SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massi
 <a id="reference-driven-case-13-seven-image-seamless-morphing-sequence-by-yareyaru30life"></a>
 #### 13. Seven-Image Seamless Morphing Sequence
 
-<video src="https://github.com/user-attachments/assets/8083ab95-0eca-4710-9c55-44f9e1d582dc" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/114.mp4" poster="assets/previews/114.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2849,7 +2849,7 @@ seamless transformation flow
 <a id="reference-driven-case-14-stridex-sneaker-commercial-by-shamsamin56"></a>
 #### 14. Stridex Sneaker Commercial
 
-<video src="https://github.com/user-attachments/assets/ee10e663-1267-471e-a106-56cd1e2741fc" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/K1jRd7vJAePuYplT.mp4" poster="assets/previews/K1jRd7vJAePuYplT.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2895,7 +2895,7 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 <a id="reference-driven-case-15-image-driven-prompt-with-singing-cat-by-pan-soramame-da"></a>
 #### 15. Image-Driven Prompt with Singing Cat
 
-<a href="https://x.com/pan_soramame_da/status/2040921171059752988"><img src="assets/previews/2040921171059752988.jpg" width="420" alt="Image-Driven Prompt with Singing Cat"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2040921171059752988.mp4" poster="assets/previews/2040921171059752988.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -2939,7 +2939,7 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 <a id="reference-driven-case-16-character-reference-anime-prompt-by-reiria123"></a>
 #### 16. Character Reference Anime Prompt
 
-<video src="https://github.com/user-attachments/assets/e0186556-2d35-4cb7-91be-48a8ddce31f0" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041118339393826933.mp4" poster="assets/previews/2041118339393826933.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20image--to--video-f97316)
 
@@ -3007,7 +3007,7 @@ Bright autu
 <a id="vfx-surreal-case-1-zero-gravity-katana-combat-by-miramusic-ai"></a>
 #### 1. Zero-Gravity Katana Combat
 
-<video src="https://github.com/user-attachments/assets/186ca757-d676-48d5-99d6-2e8a814742d8" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/013.mp4" poster="assets/previews/013.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3057,7 +3057,7 @@ She regains balance, floating motionless as the scene holds on a final frame.
 <a id="vfx-surreal-case-2-whale-in-the-clouds-surreal-epic-by-chaosdotjpg"></a>
 #### 2. Whale in the Clouds Surreal Epic
 
-<video src="https://github.com/user-attachments/assets/49d5f2db-ec04-4feb-ba76-ab468aa5e2c0" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/051.mp4" poster="assets/previews/051.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3076,7 +3076,7 @@ Aerial shot: skyline,
 <a id="vfx-surreal-case-3-abyss-diver-sea-creature-metamorphosis-by-aiartgallary"></a>
 #### 3. Abyss Diver Sea Creature Metamorphosis
 
-<video src="https://github.com/user-attachments/assets/8a41cb99-af50-461c-9cad-acb4ef50a1e9" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/082.mp4" poster="assets/previews/082.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3094,7 +3094,7 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 <a id="vfx-surreal-case-4-interdimensional-megacity-rift-collapse-by-ludoviccreator"></a>
 #### 4. Interdimensional Megacity Rift Collapse
 
-<video src="https://github.com/user-attachments/assets/1cf9b540-10d4-4254-ae3e-20945f84f54a" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/092.mp4" poster="assets/previews/092.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3140,7 +3140,7 @@ Diegetic prismatic dimensional light reflecting through fractured architecture a
 <a id="vfx-surreal-case-5-rainy-underground-alley-merge-by-dheepanratnam"></a>
 #### 5. Rainy Underground Alley Merge
 
-<a href="https://x.com/Dheepanratnam/status/2039796932562838010"><img src="assets/previews/096.jpg" width="420" alt="Rainy Underground Alley Merge"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/096.mp4" poster="assets/previews/096.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3160,7 +3160,7 @@ Rainy Underground Alley Merge
 <a id="vfx-surreal-case-6-quantum-reality-fracture-street-rift-by-dheepanratnam"></a>
 #### 6. Quantum Reality Fracture Street Rift
 
-<a href="https://x.com/Dheepanratnam/status/2039651240909435242"><img src="assets/previews/097.jpg" width="420" alt="Quantum Reality Fracture Street Rift"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/097.mp4" poster="assets/previews/097.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3184,7 +3184,7 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 <a id="vfx-surreal-case-7-the-eye-suddenly-opens-by-roco-kn-roco"></a>
 #### 7. the eye suddenly opens
 
-<video src="https://github.com/user-attachments/assets/e1ad7221-b9ca-4619-91df-826d915f013a" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/106.mp4" poster="assets/previews/106.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3216,7 +3216,7 @@ ultra detailed anime style, cinematic lighting, high contrast, no cartoon exagge
 <a id="vfx-surreal-case-8-they-clash-mid-air-above-a-floating-lava-river-by-ludoviccreator"></a>
 #### 8. They clash mid-air above a floating lava river
 
-<video src="https://github.com/user-attachments/assets/6483544e-dd68-43d3-b682-d2cd6cabe1e0" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/116.mp4" poster="assets/previews/116.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3250,7 +3250,7 @@ Photorealistic fire simulation, volumetric storm clouds, ray-traced lava glow, c
 <a id="vfx-surreal-case-9-creative-director-dimension-walk-by-lukasersil"></a>
 #### 9. Creative Director Dimension Walk
 
-<video src="https://github.com/user-attachments/assets/2d4912be-9040-4dd6-99d7-a88607ddb70e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/KmTYi8555NBQZpyJ.mp4" poster="assets/previews/KmTYi8555NBQZpyJ.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3295,7 +3295,7 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 <a id="vfx-surreal-case-10-abyssal-entity-altar-inscription-dark-fantasy-by-adam38363368936"></a>
 #### 10. Abyssal Entity Altar Inscription — Dark Fantasy
 
-<video src="https://github.com/user-attachments/assets/589502cd-8805-4f47-be1b-de1129ace578" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041050710721339521.mp4" poster="assets/previews/2041050710721339521.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3313,7 +3313,7 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 <a id="vfx-surreal-case-11-floating-ui-color-wheel-scene-transformation-by-johnagi168"></a>
 #### 11. Floating UI Color Wheel Scene Transformation
 
-<video src="https://github.com/user-attachments/assets/421a741c-b2fc-4784-be9b-0df768709759" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041001869435158629.mp4" poster="assets/previews/2041001869435158629.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3344,7 +3344,7 @@ Seedance 2.0 prompt 👇
 <a id="templates-case-1-supercarrier-catastrophic-sinking-by-johnagi168"></a>
 #### 1. Supercarrier Catastrophic Sinking
 
-<video src="https://github.com/user-attachments/assets/cdc965b0-424e-4098-9051-a88c7b280f0e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/016.mp4" poster="assets/previews/016.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3366,7 +3366,7 @@ Seedance 2.0 text-to-video prompt below:
 <a id="templates-case-2-reconstruction-of-memory-shards-by-techtalknavi"></a>
 #### 2. Reconstruction of Memory Shards
 
-<video src="https://github.com/user-attachments/assets/7629f680-ef76-4158-bccb-0a5bb42473bc" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/018.mp4" poster="assets/previews/018.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3399,7 +3399,7 @@ Seedance 2.0 text-to-video prompt below:
 <a id="templates-case-3-blueprint-to-reality-single-story-house-transformation-by-craftian-keskin"></a>
 #### 3. Blueprint to Reality – Single-Story House Transformation
 
-<video src="https://github.com/user-attachments/assets/61011b1e-ddf6-4129-bee0-b1065c4694c6" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/024.mp4" poster="assets/previews/024.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3468,7 +3468,7 @@ Seedance 2.0 text-to-video prompt below:
 <a id="templates-case-4-martial-arts-haute-couture-tailor-by-adam38363368936"></a>
 #### 4. Martial-Arts Haute Couture Tailor
 
-<video src="https://github.com/user-attachments/assets/3b2d45d3-bf02-4a03-b40c-acd7c4f6c9d3" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/027.mp4" poster="assets/previews/027.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3508,7 +3508,7 @@ TIMELINE:
 <a id="templates-case-5-beat-synced-outfit-transition-template-by-aimikoda"></a>
 #### 5. Beat-Synced Outfit Transition Template
 
-<video src="https://github.com/user-attachments/assets/7af834d5-b52b-4df7-a94a-aec20c17eb42" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/053.mp4" poster="assets/previews/053.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3529,7 +3529,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 <a id="templates-case-6-tokyo-pov-neon-rollercoaster-template-by-techtalknavi"></a>
 #### 6. Tokyo POV Neon Rollercoaster Template
 
-<video src="https://github.com/user-attachments/assets/a141e8c4-0dcd-42fa-b099-480209501c16" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/061.mp4" poster="assets/previews/061.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3556,7 +3556,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 <a id="templates-case-7-dancing-skyscraper-district-template-by-techtalknavi"></a>
 #### 7. Dancing Skyscraper District Template
 
-<video src="https://github.com/user-attachments/assets/b5d5c11b-bdc1-4790-b76b-3b78ac783f02" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/062.mp4" poster="assets/previews/062.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3583,7 +3583,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 <a id="templates-case-8-starlight-shadow-stardust-silhouette-by-techtalknavi"></a>
 #### 8. Starlight Shadow / Stardust Silhouette
 
-<video src="https://github.com/user-attachments/assets/f8b1d659-8654-47aa-90ad-13048bd5bbf1" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/063.mp4" poster="assets/previews/063.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3619,7 +3619,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 <a id="templates-case-9-painterly-parkour-pov-template-by-0xbisc"></a>
 #### 9. Painterly Parkour POV Template
 
-<video src="https://github.com/user-attachments/assets/0f21afb1-9713-4540-bdbe-e4e55b1b57d1" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/083.mp4" poster="assets/previews/083.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3641,7 +3641,7 @@ Style: Painterly 3D, stylized on real human anatomy
 <a id="templates-case-10-360-pov-downhill-stair-run-template-by-aimikoda"></a>
 #### 10. 360 POV Downhill Stair Run Template
 
-<video src="https://github.com/user-attachments/assets/4c0a562e-9467-4a69-9278-b9f7219fa1dc" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/090.mp4" poster="assets/previews/090.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3661,7 +3661,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 <a id="templates-case-11-food-and-character-motion-template-by-just-sharon7"></a>
 #### 11. Food and Character Motion Template
 
-<a href="https://x.com/Just_sharon7/status/2039725656393875580"><img src="assets/previews/094.jpg" width="420" alt="Food and Character Motion Template"></a>
+<a href="https://x.com/Just_sharon7/status/2039725656393875580"><img src="assets/previews/094.jpg" width="480" alt="Food and Character Motion Template"></a>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3693,7 +3693,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 <a id="templates-case-12-impossible-camera-kitchen-rush-template-by-dheepanratnam"></a>
 #### 12. Impossible Camera Kitchen Rush Template
 
-<a href="https://x.com/Dheepanratnam/status/2039568902481387645"><img src="assets/previews/098.jpg" width="420" alt="Impossible Camera Kitchen Rush Template"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/098.mp4" poster="assets/previews/098.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3713,7 +3713,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 <a id="templates-case-13-time-freeze-pov-burst-template-by-charaspowerai"></a>
 #### 13. Time-Freeze POV Burst Template
 
-<video src="https://github.com/user-attachments/assets/9c6c98d5-aebc-4c13-875d-ee4b243045e7" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/099.mp4" poster="assets/previews/099.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3763,7 +3763,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 <a id="templates-case-14-astronaut-first-spacewalk-template-by-brennanerbz"></a>
 #### 14. Astronaut First Spacewalk Template
 
-<video src="https://github.com/user-attachments/assets/5ddf8aa7-073e-4342-a714-c6dce87cad6c" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/100.mp4" poster="assets/previews/100.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3781,7 +3781,7 @@ FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut'
 <a id="templates-case-15-golden-retriever-routine-template-by-0xbisc"></a>
 #### 15. Golden Retriever Routine Template
 
-<video src="https://github.com/user-attachments/assets/5777ebe2-6737-46fd-ba7a-e84c6883940f" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/104.mp4" poster="assets/previews/104.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3801,7 +3801,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 <a id="templates-case-16-stylized-3d-barbershop-transformation-sequence-by-shamiweb3"></a>
 #### 16. Stylized 3D Barbershop Transformation Sequence
 
-<video src="https://github.com/user-attachments/assets/c9b84414-e12a-4969-adf7-a9ad5f5681ad" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/115.mp4" poster="assets/previews/115.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3873,7 +3873,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 <a id="templates-case-17-impressionist-rowing-hands-template-by-0xbisc"></a>
 #### 17. Impressionist Rowing Hands Template
 
-<video src="https://github.com/user-attachments/assets/2b470120-3ef3-4902-9876-28fe1a6d2f90" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/122.mp4" poster="assets/previews/122.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3892,7 +3892,7 @@ Subject 1: First-person perspective hands (rendered in Monet impressionist oil p
 <a id="templates-case-18-seven-image-seamless-morphing-sequence-by-yareyaru30life"></a>
 #### 18. Seven-Image Seamless Morphing Sequence
 
-<video src="https://github.com/user-attachments/assets/8083ab95-0eca-4710-9c55-44f9e1d582dc" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/114.mp4" poster="assets/previews/114.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3970,7 +3970,7 @@ seamless transformation flow
 <a id="templates-case-19-female-warrior-structured-subject-prompt-by-noman23761"></a>
 #### 19. Female Warrior — Structured Subject Prompt
 
-<video src="https://github.com/user-attachments/assets/f25bb7f2-56d0-4de0-a89a-14e5918806d5" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041406971484815564.mp4" poster="assets/previews/2041406971484815564.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -3997,7 +3997,7 @@ seamless transformation flow
 <a id="general-cinematic-case-1-spring-wind-memory-poem-by-liyue-ai"></a>
 #### 1. Spring Wind Memory Poem
 
-<video src="https://github.com/user-attachments/assets/27a1213b-ce63-4720-bfc0-5c39ff07760b" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/001.mp4" poster="assets/previews/001.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4026,7 +4026,7 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 <a id="general-cinematic-case-2-high-heel-beat-sync-fashion-close-up-by-tingfengaiai"></a>
 #### 2. High-Heel Beat Sync Fashion Close-Up
 
-<a href="https://x.com/TingFengAIAI/status/2038904225548149011"><img src="assets/previews/002.jpg" width="420" alt="High-Heel Beat Sync Fashion Close-Up"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/002.mp4" poster="assets/previews/002.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4050,7 +4050,7 @@ Beauty beat-sync sequence:
 <a id="general-cinematic-case-3-mini-skateboard-escape-in-a-child-bedroom-by-anson7956"></a>
 #### 3. Mini Skateboard Escape in a Child Bedroom
 
-<video src="https://github.com/user-attachments/assets/22e91a4c-51bc-4bff-8604-1ce6adfe2f73" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/003.mp4" poster="assets/previews/003.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4073,7 +4073,7 @@ This is a thrilling, heart-pounding video packed with near escapes. The setting 
 <a id="general-cinematic-case-4-rucker-park-grandma-showdown-by-techhalla"></a>
 #### 4. Rucker Park Grandma Showdown
 
-<video src="https://github.com/user-attachments/assets/e64a4dc1-3969-4672-9458-7ec9c4a8e43f" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/023.mp4" poster="assets/previews/023.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4091,7 +4091,7 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 <a id="general-cinematic-case-5-firefighter-baby-rescue-sequence-by-aitalesnbh"></a>
 #### 5. Firefighter Baby Rescue Sequence
 
-<video src="https://github.com/user-attachments/assets/d478b2d7-bcbf-43e1-b135-c122514cde11" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/026.mp4" poster="assets/previews/026.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4109,7 +4109,7 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 <a id="general-cinematic-case-6-ancient-costume-transformation-showcase-by-johnagi168"></a>
 #### 6. Ancient Costume Transformation Showcase
 
-<video src="https://github.com/user-attachments/assets/bdec0be7-c556-4f55-8135-f10baa527b7c" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/029.mp4" poster="assets/previews/029.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4134,7 +4134,7 @@ Seedance 2.0 all-purpose reference prompt below:
 <a id="general-cinematic-case-7-ginza-at-night-future-cyberpunk-by-chiakiakagi"></a>
 #### 7. Ginza at night, future cyberpunk
 
-<video src="https://github.com/user-attachments/assets/a5fac48c-304c-4f75-a33b-060e5318c7b2" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/037.mp4" poster="assets/previews/037.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4158,7 +4158,7 @@ The female ninja's punch sends the ninja flying, crashing into a neon sign high 
 <a id="general-cinematic-case-8-stories-of-a-hopper-by-starks-arq"></a>
 #### 8. stories of a hopper
 
-<video src="https://github.com/user-attachments/assets/d3673a31-f7f4-42fd-ae9f-8439ee72640e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/040.mp4" poster="assets/previews/040.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4178,7 +4178,7 @@ stories of a hopper.
 <a id="general-cinematic-case-9-a-suspicious-man-stands-in-the-center-of-shibuya-scramble-crossing-by-roco-kn-roco"></a>
 #### 9. A suspicious man stands in the center of Shibuya scramble crossing
 
-<video src="https://github.com/user-attachments/assets/694ce015-7458-4b39-a9fa-2a8e2dd70fe5" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/043.mp4" poster="assets/previews/043.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4199,7 +4199,7 @@ Protagonist: Hiromu, Age 19
 <a id="general-cinematic-case-10-fishing-boat-crowd-phone-cam-by-maxescu"></a>
 #### 10. Fishing Boat Crowd Phone Cam
 
-<video src="https://github.com/user-attachments/assets/a3216e80-4863-42a2-8dc6-e8711e8a02c8" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/044.mp4" poster="assets/previews/044.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4220,7 +4220,7 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
 <a id="general-cinematic-case-11-a-girl-falls-rapidly-through-a-digital-tunnel-by-3912657840"></a>
 #### 11. A girl falls rapidly through a digital tunnel
 
-<video src="https://github.com/user-attachments/assets/f1e96310-93da-41f3-a806-65380b9bffb1" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/057.mp4" poster="assets/previews/057.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4238,7 +4238,7 @@ A girl falls rapidly through a digital tunnel. The girl is panicking and flailin
 <a id="general-cinematic-case-12-skytree-railgun-launch-sequence-by-techtalknavi"></a>
 #### 12. Skytree Railgun Launch Sequence
 
-<a href="https://x.com/TechTalkNAVI/status/2040100728627454339"><img src="assets/previews/060.jpg" width="420" alt="Skytree Railgun Launch Sequence"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/060.mp4" poster="assets/previews/060.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4266,7 +4266,7 @@ Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 <a id="general-cinematic-case-13-a-hollywood-movie-trailer-by-ssss-cryptoman"></a>
 #### 13. A Hollywood movie trailer
 
-<video src="https://github.com/user-attachments/assets/7004745e-5296-4427-a424-52c129d47b9c" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/065.mp4" poster="assets/previews/065.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4284,7 +4284,7 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 <a id="general-cinematic-case-14-cinematic-vertical-9-by-mayz1169"></a>
 #### 14. Cinematic Vertical 9
 
-<video src="https://github.com/user-attachments/assets/e611045a-eeb1-42b3-bb61-a2a6d5ad22ed" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/067.mp4" poster="assets/previews/067.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4302,7 +4302,7 @@ Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side b
 <a id="general-cinematic-case-15-a-giant-glacier-wall-collapses-into-a-fjord-beside-a-coastal-city-by-ludoviccreator"></a>
 #### 15. A giant glacier wall collapses into a fjord beside a coastal city
 
-<video src="https://github.com/user-attachments/assets/762e995a-f8f4-4e8e-9a57-5d1ae2443e78" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/068.mp4" poster="assets/previews/068.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4328,7 +4328,7 @@ Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster 
 <a id="general-cinematic-case-16-a-moonlit-piano-chase-where-the-mouse-by-dheepanratnam"></a>
 #### 16. A moonlit piano chase where the mouse
 
-<video src="https://github.com/user-attachments/assets/8fed20e4-b312-4ced-b8c4-1d3fc0b9adec" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/072.mp4" poster="assets/previews/072.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4355,7 +4355,7 @@ The cat crashes into the keyboard section, causing a chaotic musical explosion. 
 <a id="general-cinematic-case-17-15-second-continuous-single-shot-cartoon-sequence-by-artedeingenio"></a>
 #### 17. 15-second continuous single-shot cartoon sequence
 
-<video src="https://github.com/user-attachments/assets/7f788cbc-4e13-4daa-98c7-7b75eac38872" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/077.mp4" poster="assets/previews/077.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4381,7 +4381,7 @@ A small animal character walking through a quiet meadow.
 <a id="general-cinematic-case-18-steampunk-airship-battle-at-sunset-by-alin-reaper05"></a>
 #### 18. Steampunk Airship Battle at Sunset
 
-<video src="https://github.com/user-attachments/assets/00718cc0-83fb-4275-b75d-d9b4ea649786" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/080.mp4" poster="assets/previews/080.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4399,7 +4399,7 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 <a id="general-cinematic-case-19-flip-flops-jet-wing-tracking-shot-by-maxescu"></a>
 #### 19. Flip-Flops Jet Wing Tracking Shot
 
-<video src="https://github.com/user-attachments/assets/42332ec4-e4c8-4f32-ae2c-7641a18d8ce9" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/087.mp4" poster="assets/previews/087.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4420,7 +4420,7 @@ timeline:
 <a id="general-cinematic-case-20-exterior-of-an-ancient-temple-in-the-deep-mountains-by-cdexsta"></a>
 #### 20. Exterior of an ancient temple in the deep mountains
 
-<video src="https://github.com/user-attachments/assets/1e699893-1aed-4114-bddc-7b49d563db6c" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/089.mp4" poster="assets/previews/089.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4439,7 +4439,7 @@ Exterior of an ancient temple in the deep mountains. The camera overlooks the te
 <a id="general-cinematic-case-21-statue-of-liberty-sunrise-storyboard-by-mrdasonx"></a>
 #### 21. Statue of Liberty Sunrise Storyboard
 
-<video src="https://github.com/user-attachments/assets/d73a24a2-58a8-4460-9600-7656d0a080f5" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/urrfA6BwbCGtYgie.mp4" poster="assets/previews/urrfA6BwbCGtYgie.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4473,7 +4473,7 @@ Fast cinematic cuts, smooth micro camera movements per shot (push, pan, slide, t
 <a id="general-cinematic-case-22-historical-scene-with-dramatic-lighting-by-askvenice"></a>
 #### 22. Historical scene with dramatic lighting
 
-<video src="https://github.com/user-attachments/assets/f59e086d-7832-47e3-b4b4-973f07d43eed" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/101.mp4" poster="assets/previews/101.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4497,7 +4497,7 @@ Quick cut: Ottoman cannon
 <a id="general-cinematic-case-23-rocket-surf-continuous-tracking-shot-by-maxescu"></a>
 #### 23. Rocket Surf Continuous Tracking Shot
 
-<video src="https://github.com/user-attachments/assets/b82f5027-b0c8-477e-acc0-dfd40c373f91" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/107.mp4" poster="assets/previews/107.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4522,7 +4522,7 @@ TIMELINE: 0-3s:
 <a id="general-cinematic-case-24-stand-up-comedy-monologue-template-by-adam38363368936"></a>
 #### 24. Stand-Up Comedy Monologue Template
 
-<video src="https://github.com/user-attachments/assets/0c23ae95-ea4b-434c-b689-f6ccd25faf7e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/120.mp4" poster="assets/previews/120.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4549,7 +4549,7 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 <a id="general-cinematic-case-25-rooftop-awakening-to-f-14-transformation-by-john87445528"></a>
 #### 25. Rooftop Awakening to F-14 Transformation
 
-<a href="https://x.com/john87445528/status/2039496153641660508"><img src="assets/previews/088.jpg" width="420" alt="Rooftop Awakening to F-14 Transformation"></a>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/088.mp4" poster="assets/previews/088.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4571,7 +4571,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 <a id="general-cinematic-case-26-birthday-betrayal-restaurant-drama-by-lighterkissan33"></a>
 #### 26. Birthday Betrayal Restaurant Drama
 
-<video src="https://github.com/user-attachments/assets/dcfb93d9-0e93-4066-9d49-9dbfd24025f2" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/KT84c2TqktCYBHye.mp4" poster="assets/previews/KT84c2TqktCYBHye.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4611,7 +4611,7 @@ her boyfriend full of regret, ending with a low background music and whispers ar
 <a id="general-cinematic-case-27-japanese-classroom-whisper-romance-by-jiahaoyang-art"></a>
 #### 27. Japanese Classroom Whisper Romance
 
-<video src="https://github.com/user-attachments/assets/4e3bb308-ba70-43b2-9fdd-898a62ad3858" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/022.mp4" poster="assets/previews/022.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4635,7 +4635,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 <a id="general-cinematic-case-28-ancient-parkour-costume-change-sequence-by-adam38363368936"></a>
 #### 28. Ancient Parkour Costume-Change Sequence
 
-<video src="https://github.com/user-attachments/assets/87393a6a-abd5-4a9f-8184-5718fad9bcd7" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2040980673851506798.mp4" poster="assets/previews/2040980673851506798.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4660,7 +4660,7 @@ Seedance2.0提示词
 <a id="general-cinematic-case-29-engine-internals-piston-mechanical-detail-by-yareyaru30life"></a>
 #### 29. Engine Internals — Piston Mechanical Detail
 
-<video src="https://github.com/user-attachments/assets/954db689-f5ff-4265-8116-65baaa585040" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041068828457877598.mp4" poster="assets/previews/2041068828457877598.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4689,7 +4689,7 @@ Seedance2.0提示词
 <a id="general-cinematic-case-30-90s-japanese-romance-sim-cel-animation-style-by-kinopioai-ai"></a>
 #### 30. 90s Japanese Romance Sim — Cel Animation Style
 
-<video src="https://github.com/user-attachments/assets/bdac91b2-4676-4a23-b6bb-5c49e2241261" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2040814307487916415.mp4" poster="assets/previews/2040814307487916415.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4725,7 +4725,7 @@ Seedance2.0提示词
 <a id="general-cinematic-case-31-cinematic-directing-techniques-multi-shot-prompt-by-noman23761"></a>
 #### 31. Cinematic Directing Techniques — Multi-Shot Prompt
 
-<video src="https://github.com/user-attachments/assets/353b498c-96e4-4b15-8e0e-e0fe9e7c9372" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041409914954973216.mp4" poster="assets/previews/2041409914954973216.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4766,7 +4766,7 @@ You have to explicitly define energy levels
 <a id="general-cinematic-case-32-east-asian-woman-portrait-natural-smile-by-noman23761"></a>
 #### 32. East Asian Woman Portrait — Natural Smile
 
-<video src="https://github.com/user-attachments/assets/4a14e9d7-bcc0-4b84-85b6-5a710586498e" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041408928215408931.mp4" poster="assets/previews/2041408928215408931.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4792,7 +4792,7 @@ Same structure, completely different feeling.
 <a id="general-cinematic-case-33-post-apocalyptic-survival-cinematic-setup-by-noman23761"></a>
 #### 33. Post-Apocalyptic Survival — Cinematic Setup
 
-<video src="https://github.com/user-attachments/assets/d9dc324f-de1b-474c-beb1-1c8bf90c8b53" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041405260762419692.mp4" poster="assets/previews/2041405260762419692.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4810,7 +4810,7 @@ Same structure, completely different feeling.
 <a id="general-cinematic-case-34-pixar-forest-clearing-3d-animated-scene-by-speedai07"></a>
 #### 34. Pixar Forest Clearing — 3D Animated Scene
 
-<video src="https://github.com/user-attachments/assets/3e46bea0-8d44-45e9-b07b-3bdaeb52c9d2" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041393724622795014.mp4" poster="assets/previews/2041393724622795014.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4830,7 +4830,7 @@ Pixar 3D animated forest clearing. Sunny day, god rays through trees, green gras
 <a id="general-cinematic-case-35-kitten-sneaking-snacks-under-covers-by-lynneatyoumind"></a>
 #### 35. Kitten Sneaking Snacks Under Covers
 
-<video src="https://github.com/user-attachments/assets/e2733bab-afbe-4c05-bf7f-9c6ba55040ae" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041334660173852807.mp4" poster="assets/previews/2041334660173852807.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4848,7 +4848,7 @@ prompt: A cute kitten secretly eating snacks under the covers in bed at night. H
 <a id="general-cinematic-case-36-seedance-2-0-t2v-natural-speech-test-by-tanabe-fragm"></a>
 #### 36. Seedance 2.0 T2V Natural Speech Test
 
-<video src="https://github.com/user-attachments/assets/6a6688ed-8cf3-4771-9234-4d98a041b72b" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041328307267088580.mp4" poster="assets/previews/2041328307267088580.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
@@ -4873,7 +4873,7 @@ Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
 <a id="general-cinematic-case-37-paper-puppet-horror-animation-by-tomaaibijo"></a>
 #### 37. Paper Puppet Horror Animation
 
-<video src="https://github.com/user-attachments/assets/49eacf92-0c8a-47dc-8fac-c9d259aca464" width="420" controls></video>
+<video src="https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/releases/download/v1.0-media/2041409381162689021.mp4" poster="assets/previews/2041409381162689021.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 

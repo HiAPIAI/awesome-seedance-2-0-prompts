@@ -16,8 +16,8 @@ const requiredItemFields = [
   "title_en",
   "author",
   "author_url",
-  "preview",
-  "preview_kind",
+  "preview_filename",
+  "preview_image",
   "aspect_ratio",
   "seconds",
   "resolution",
@@ -30,13 +30,11 @@ const allowedAspectRatios = new Set(["16:9", "9:16", "1:1", "4:3", "3:4", "21:9"
 const allowedSeconds = new Set(["4", "5", "8", "10"]);
 const allowedResolutions = new Set(["480p", "720p"]);
 const allowedCapabilities = new Set(["text-to-video", "image-to-video"]);
-
 const errors = [];
 const warnings = [];
 const seenIds = new Set();
 const seenCaseNumbers = new Map(); // category -> Set
 const categoryIds = new Set(data.categories.map((c) => c.id));
-const allowedPreviewKinds = new Set(["image", "video"]);
 
 for (const [index, item] of data.items.entries()) {
   const where = `items[${index}] (${item.id ?? "no-id"})`;
@@ -60,8 +58,11 @@ for (const [index, item] of data.items.entries()) {
   if (item.category && !categoryIds.has(item.category)) {
     errors.push(`${where}: unknown category "${item.category}"`);
   }
-  if (item.preview_kind && !allowedPreviewKinds.has(item.preview_kind)) {
-    errors.push(`${where}: invalid preview_kind "${item.preview_kind}"`);
+  if (item.preview_image && !item.preview_image.startsWith("assets/")) {
+    errors.push(`${where}: preview_image must be a relative assets/ path`);
+  }
+  if (item.preview_video && !/^https?:\/\//.test(item.preview_video)) {
+    errors.push(`${where}: preview_video must be http(s)`);
   }
   if (item.aspect_ratio && !allowedAspectRatios.has(item.aspect_ratio)) {
     warnings.push(`${where}: non-standard aspect_ratio "${item.aspect_ratio}"`);
@@ -80,9 +81,6 @@ for (const [index, item] of data.items.entries()) {
   }
   if (item.author_url && !/^https?:\/\//.test(item.author_url)) {
     errors.push(`${where}: author_url must be http(s)`);
-  }
-  if (item.preview && !/^https?:\/\//.test(item.preview) && !item.preview.startsWith("assets/")) {
-    errors.push(`${where}: preview must be http(s) URL or assets/ path`);
   }
 }
 
