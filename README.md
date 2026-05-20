@@ -1,7 +1,5 @@
 <div align="center">
 
-<a href="https://www.hiapi.ai/en"><img src="./assets/banner.jpg" alt="Awesome Seedance 2.0 Prompts" width="100%"></a>
-
 [![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/en) [![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/en/register) [![Seedance 2.0](https://img.shields.io/badge/Seedance%202.0-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/en/models/seedance-2-0) [![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai)
 
 ![163](https://img.shields.io/badge/163%20Prompts-f97316) ![8](https://img.shields.io/badge/8%20Categories-111827) ![Real Video](https://img.shields.io/badge/Real%20Video-16a34a) ![Copy & Run](https://img.shields.io/badge/Copy%20&%20Run-f59e0b)

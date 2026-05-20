@@ -5,3 +5,5 @@ outputs/
 .env.local
 *.log
 .upstream-cache/
+scripts/upload-manifest.json
+scripts/upload-results.jsonl
