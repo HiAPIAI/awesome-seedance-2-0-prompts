@@ -1,0 +1,23 @@
+{
+  "name": "awesome-seedance-2-0-prompts",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Awesome bilingual Seedance 2.0 video prompt gallery with real video examples, powered by HiAPI.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-readme.mjs",
+    "test": "node scripts/validate.mjs"
+  },
+  "keywords": [
+    "hiapi",
+    "seedance",
+    "seedance-2-0",
+    "ai-video",
+    "video-generation",
+    "text-to-video",
+    "image-to-video",
+    "prompt-gallery",
+    "awesome-list"
+  ],
+  "license": "SEE LICENSE IN LICENSE"
+}

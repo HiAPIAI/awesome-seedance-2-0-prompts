@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+outputs/
+.env
+.env.local
+*.log
+.upstream-cache/

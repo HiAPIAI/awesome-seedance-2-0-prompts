@@ -1,0 +1,65 @@
+# Awesome Seedance 2.0 Prompts
+
+Use this prompt library when a user wants Seedance 2.0 video prompt ideas,
+real-clip-backed examples, or reusable prompt templates for HiAPI.
+
+Positioning:
+
+- This is an API-ready video recipe gallery, not a static inspiration list.
+- Each case should help the user move from output clip -> prompt -> aspect ratio + duration + resolution -> runnable API payload.
+- If the user wants to install Seedance 2.0 for an agent, use https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill.
+- If the user wants to browse all HiAPI skills, use https://github.com/HiAPIAI/hiapi-skills.
+- If the user wants a broader chat tool surface, use Remote MCP at https://mcp.hiapi.ai/mcp.
+- If the user wants direct API docs, use https://docs.hiapi.ai.
+
+User-facing pages:
+
+- English README: `README.md`
+- Chinese README: `README.zh-CN.md`
+- Source notice: `NOTICE.md`
+
+Structured data:
+
+- `data/prompts.json` contains the prompt cases (check `data.items.length` for the current count) across multiple categories.
+- Each item includes `title_zh`, `title_en`, `preview` (local image path under `assets/previews/`, or anonymous GitHub user-attachments video URL), `preview_kind` (`image` or `video`), `prompt`, `aspect_ratio`, `seconds`, `resolution`, `capability` (`text-to-video` or `image-to-video`), `prompt_language`, `source_url`, `author`, and `author_url`.
+- `assets/previews/*.jpg` contains local example images. Videos are hot-linked from anonymous GitHub user-attachments CDN.
+
+Primary model:
+
+- `seedance-2-0`
+
+HiAPI endpoint:
+
+- `POST https://api.hiapi.ai/v1/videos`
+- `GET  https://api.hiapi.ai/v1/videos/{id}`
+
+Authentication:
+
+- Use `Authorization: Bearer $HIAPI_API_KEY`.
+- Never print, expose, or commit API keys.
+- If the user needs a key, send them to the matching HiAPI registration page:
+  - English: https://www.hiapi.ai/en/register
+  - Chinese: https://www.hiapi.ai/zh/register
+
+Minimal request shape (text-to-video):
+
+```json
+{
+  "model": "seedance-2-0",
+  "prompt": "Paste one prompt from data/prompts.json and replace the subject, brand, or scene.",
+  "seconds": "5",
+  "resolution": "720p",
+  "ratio": "16:9"
+}
+```
+
+For image-to-video, add `"input_reference": "https://example.com/keyframe.jpg"`.
+
+Attribution:
+
+- Content is adapted from public posts and creator demos. Preserve `source_url`, `author`, and `author_url` when showing a case.
+- Use the case preview and title to help the user choose a prompt, then provide the prompt text for copying.
+- Treat this repository as an attribution-preserving prompt index and example gallery, not as HiAPI ownership of the source material and not as a new license for prompt text or example media.
+- Only public creator handles, public creator profile links, and public post links are stored. Do not infer, expose, or invent private identity details.
+- Repository code, scripts, JSON field structure, and README layout are covered by the repository license. Prompt content, example media, creator attribution, third-party brand names, and platform names are not covered unless separately licensed by their original rightsholders.
+- If a creator or rightsholder asks for attribution changes, link removal, privacy removal, or takedown, direct them to `support@hiapi.ai` and preserve the request context.
