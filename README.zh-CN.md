@@ -123,15 +123,15 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 
 </details>
 
-<!-- Case 4: Anime high-speed cut test — 20 hard cuts in 10 seconds (0 (by @tebasaki3D) -->
-<a id="action-fantasy-case-4-anime-high-speed-cut-test-20-hard-cuts-in-10-seconds-0-by-tebasaki3d"></a>
-#### 4. Anime high-speed cut test — 20 hard cuts in 10 seconds (0
+<!-- Case 4: Anime high-speed cut test — 20 hard cuts in 10 seconds (by @tebasaki3D) -->
+<a id="action-fantasy-case-4-anime-high-speed-cut-test-20-hard-cuts-in-10-seconds-by-tebasaki3d"></a>
+#### 4. Anime high-speed cut test — 20 hard cuts in 10 seconds
 
 <video src="https://github.com/user-attachments/assets/bcd1ae29-a0f1-4a77-98fe-c7844343b502" poster="assets/previews/039.jpg" width="480" controls preload="none"></video>
 
 ![比例](https://img.shields.io/badge/比例:%2016:9-111827) ![时长](https://img.shields.io/badge/时长:%205s-111827) ![分辨率](https://img.shields.io/badge/分辨率:%20720p-111827) ![能力](https://img.shields.io/badge/能力:%20text--to--video-f97316)
 
-**作者:** [@tebasaki3D](https://x.com/tebasaki3D) · **原帖:** [Anime high-speed cut test — 20 hard cuts in 10 seconds (0](https://x.com/tebasaki3D/status/2039903531415552048)
+**作者:** [@tebasaki3D](https://x.com/tebasaki3D) · **原帖:** [Anime high-speed cut test — 20 hard cuts in 10 seconds](https://x.com/tebasaki3D/status/2039903531415552048)
 
 <details><summary><strong>完整 Prompt（点击展开）</strong></summary>
 
