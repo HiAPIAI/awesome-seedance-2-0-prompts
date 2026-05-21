@@ -204,8 +204,12 @@ function render(lang) {
   const t = tHeader(lang);
   const out = [];
 
-  // Centered header (no banner image yet — slot reserved for a HiAPI-generated cover).
+  // Centered header with HiAPI-generated cover banner.
   out.push(`<div align="center">`);
+  out.push("");
+  const coverFile = lang === "zh" ? "./assets/cover.zh-CN.png" : "./assets/cover.png";
+  const coverHref = lang === "zh" ? hiapi.zh.home : hiapi.en.home;
+  out.push(`<a href="${coverHref}"><img src="${coverFile}" alt="${t.title}" width="100%"></a>`);
   out.push("");
   // Big shield row
   out.push([
