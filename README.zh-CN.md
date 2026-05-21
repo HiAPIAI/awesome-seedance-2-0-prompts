@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://www.hiapi.ai/zh"><img src="./assets/cover.zh-CN.png" alt="Awesome Seedance 2.0 Prompts" width="100%"></a>
+<a href="https://www.hiapi.ai/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts"><img src="./assets/cover.zh-CN.png" alt="Awesome Seedance 2.0 Prompts" width="100%"></a>
 
-[![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/zh) [![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/zh/register) [![Seedance 2.0](https://img.shields.io/badge/Seedance%202.0-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/zh/models/seedance-2-0) [![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai)
+[![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) [![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/zh/register?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) [![Seedance 2.0](https://img.shields.io/badge/Seedance%202.0-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/zh/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) [![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ![163](https://img.shields.io/badge/163%20Prompts-f97316) ![8](https://img.shields.io/badge/8%20Categories-111827) ![Real Video](https://img.shields.io/badge/Real%20Video-16a34a) ![Copy & Run](https://img.shields.io/badge/Copy%20&%20Run-f59e0b)
 
@@ -10,7 +10,7 @@
 
 **Seedance 2.0 视频提示词案例库**
 
-[HiAPI](https://www.hiapi.ai/zh) · [Seedance 2.0](https://www.hiapi.ai/zh/models/seedance-2-0) · [API Key](https://www.hiapi.ai/zh/register) · [Skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill) · [Docs](https://docs.hiapi.ai) · [English](README.md)
+[HiAPI](https://www.hiapi.ai/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Seedance 2.0](https://www.hiapi.ai/zh/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [API Key](https://www.hiapi.ai/zh/register?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill) · [Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [English](README.md)
 
 *真实视频效果 · 完整提示词 · 一个 API Key 全部跑通*
 
@@ -20,7 +20,7 @@
 
 ## 这是什么
 
-`Awesome Seedance 2.0 Prompts` 是一份针对 [Seedance 2.0](https://www.hiapi.ai/zh/models/seedance-2-0) 的视频提示词案例画廊。163 个案例覆盖 8 个分类，每条都包含**真实视频片段**、**完整 Prompt** 和**原作者署名**，复制即可在 HiAPI 跑通。
+`Awesome Seedance 2.0 Prompts` 是一份针对 [Seedance 2.0](https://www.hiapi.ai/zh/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) 的视频提示词案例画廊。163 个案例覆盖 8 个分类，每条都包含**真实视频片段**、**完整 Prompt** 和**原作者署名**，复制即可在 HiAPI 跑通。
 
 ## 怎么用
 
@@ -4951,7 +4951,7 @@ curl -X POST "https://api.hiapi.ai/v1/videos" \
 
 Seedance 2.0、HappyHorse 1.0、GPT Image 2 等主流模型，一个 API Key 统一接入，按量计费无需订阅。
 
-[在 HiAPI 生成视频 →](https://www.hiapi.ai/zh/models/seedance-2-0) · [安装 Skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill) · [API 文档](https://docs.hiapi.ai)
+[在 HiAPI 生成视频 →](https://www.hiapi.ai/zh/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [安装 Skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill) · [API 文档](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ---
 

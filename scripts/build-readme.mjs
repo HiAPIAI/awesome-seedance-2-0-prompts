@@ -5,20 +5,30 @@ import path from "node:path";
 const root = path.resolve(new URL("..", import.meta.url).pathname);
 const data = JSON.parse(fs.readFileSync(path.join(root, "data", "prompts.json"), "utf8"));
 
+const REPO_SLUG = "awesome-seedance-2-0-prompts";
+
+function withUtm(url, medium = "readme") {
+  const u = new URL(url);
+  u.searchParams.set("utm_source", "github");
+  u.searchParams.set("utm_medium", medium);
+  u.searchParams.set("utm_campaign", REPO_SLUG);
+  return u.toString();
+}
+
 const hiapi = {
   zh: {
-    home: "https://www.hiapi.ai/zh",
-    key: "https://www.hiapi.ai/zh/register",
-    model: "https://www.hiapi.ai/zh/models/seedance-2-0",
-    pricing: "https://www.hiapi.ai/zh/pricing",
+    home: withUtm("https://www.hiapi.ai/zh"),
+    key: withUtm("https://www.hiapi.ai/zh/register"),
+    model: withUtm("https://www.hiapi.ai/zh/models/seedance-2-0"),
+    pricing: withUtm("https://www.hiapi.ai/zh/pricing"),
   },
   en: {
-    home: "https://www.hiapi.ai/en",
-    key: "https://www.hiapi.ai/en/register",
-    model: "https://www.hiapi.ai/en/models/seedance-2-0",
-    pricing: "https://www.hiapi.ai/en/pricing",
+    home: withUtm("https://www.hiapi.ai/en"),
+    key: withUtm("https://www.hiapi.ai/en/register"),
+    model: withUtm("https://www.hiapi.ai/en/models/seedance-2-0"),
+    pricing: withUtm("https://www.hiapi.ai/en/pricing"),
   },
-  docs: "https://docs.hiapi.ai",
+  docs: withUtm("https://docs.hiapi.ai"),
   skill: "https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill",
   skillsHub: "https://github.com/HiAPIAI/hiapi-skills",
   promptsImage: "https://github.com/HiAPIAI/awesome-gpt-image-2-prompts",

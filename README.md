@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://www.hiapi.ai/en"><img src="./assets/cover.png" alt="Awesome Seedance 2.0 Prompts" width="100%"></a>
+<a href="https://www.hiapi.ai/en?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts"><img src="./assets/cover.png" alt="Awesome Seedance 2.0 Prompts" width="100%"></a>
 
-[![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/en) [![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/en/register) [![Seedance 2.0](https://img.shields.io/badge/Seedance%202.0-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/en/models/seedance-2-0) [![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai)
+[![HiAPI](https://img.shields.io/badge/HiAPI-One%20API%2C%20All%20AI%20Models-f97316?style=for-the-badge)](https://www.hiapi.ai/en?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) [![API Key](https://img.shields.io/badge/API%20Key-Free-111827?style=for-the-badge)](https://www.hiapi.ai/en/register?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) [![Seedance 2.0](https://img.shields.io/badge/Seedance%202.0-Open-f97316?style=for-the-badge)](https://www.hiapi.ai/en/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) [![Docs](https://img.shields.io/badge/Docs-HiAPI-111827?style=for-the-badge)](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ![163](https://img.shields.io/badge/163%20Prompts-f97316) ![8](https://img.shields.io/badge/8%20Categories-111827) ![Real Video](https://img.shields.io/badge/Real%20Video-16a34a) ![Copy & Run](https://img.shields.io/badge/Copy%20&%20Run-f59e0b)
 
@@ -10,7 +10,7 @@
 
 **A curated Seedance 2.0 video prompt gallery.**
 
-[HiAPI](https://www.hiapi.ai/en) · [Seedance 2.0](https://www.hiapi.ai/en/models/seedance-2-0) · [API Key](https://www.hiapi.ai/en/register) · [Skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill) · [Docs](https://docs.hiapi.ai) · [简体中文](README.zh-CN.md)
+[HiAPI](https://www.hiapi.ai/en?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Seedance 2.0](https://www.hiapi.ai/en/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [API Key](https://www.hiapi.ai/en/register?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill) · [Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [简体中文](README.zh-CN.md)
 
 *Real video output · Full prompts · One API key*
 
@@ -20,7 +20,7 @@
 
 ## What This Is
 
-`Awesome Seedance 2.0 Prompts` is a curated video prompt gallery for [Seedance 2.0](https://www.hiapi.ai/en/models/seedance-2-0). 163 cases across 8 categories, each shipped with a **real video preview**, the **full prompt**, and the **original creator handle** — copy and run on HiAPI.
+`Awesome Seedance 2.0 Prompts` is a curated video prompt gallery for [Seedance 2.0](https://www.hiapi.ai/en/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts). 163 cases across 8 categories, each shipped with a **real video preview**, the **full prompt**, and the **original creator handle** — copy and run on HiAPI.
 
 ## How To Use
 
@@ -4951,7 +4951,7 @@ If you want an AI agent to call Seedance 2.0 for you, install the [hiapi-seedanc
 
 Seedance 2.0, HappyHorse 1.0, GPT Image 2, and more — one API key, pay-as-you-go, no subscription.
 
-[Generate on HiAPI →](https://www.hiapi.ai/en/models/seedance-2-0) · [Install the Skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill) · [API Docs](https://docs.hiapi.ai)
+[Generate on HiAPI →](https://www.hiapi.ai/en/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Install the Skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill) · [API Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ---
 
