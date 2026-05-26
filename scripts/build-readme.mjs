@@ -247,6 +247,8 @@ function render(lang) {
   out.push("");
   out.push(`</div>`);
   out.push("");
+  out.push(`> **HiAPI Matrix:** 🎨 [Image Prompts](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts) · 🎬 **Video Prompts (you are here)** · 🛠️ [Agent Skills](https://github.com/HiAPIAI/hiapi-skills) · 🤖 [Remote MCP](https://docs.hiapi.ai/for-ai/) · 📖 [API Docs](https://docs.hiapi.ai)`);
+  out.push("");
   out.push("---");
   out.push("");
   out.push(t.intro);
