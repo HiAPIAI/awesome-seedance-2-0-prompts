@@ -4930,6 +4930,10 @@ Audio: low eerie hum, distant wind, wooden kam
 
 ## Build the HiAPI Video Request
 
+Copy a prompt from any case and drop it into any of the snippets below — same endpoint, same `HIAPI_API_KEY`. The call returns a task id you can poll for the finished video URL.
+
+**curl**
+
 ```bash
 curl -X POST "https://api.hiapi.ai/v1/videos" \
   -H "Authorization: Bearer $HIAPI_API_KEY" \
@@ -4943,7 +4947,54 @@ curl -X POST "https://api.hiapi.ai/v1/videos" \
   }'
 ```
 
+**Python**
+
+```python
+import os
+import requests
+
+response = requests.post(
+    "https://api.hiapi.ai/v1/videos",
+    headers={
+        "Authorization": f"Bearer {os.environ['HIAPI_API_KEY']}",
+        "Content-Type": "application/json",
+    },
+    json={
+        "model": "seedance-2-0",
+        "prompt": "Paste a prompt copied from one of the cases above",
+        "seconds": "5",
+        "resolution": "720p",
+        "ratio": "16:9",
+    },
+)
+
+print(response.json())  # task id; poll the videos endpoint for the final URL
+```
+
+**Node**
+
+```js
+const response = await fetch("https://api.hiapi.ai/v1/videos", {
+  method: "POST",
+  headers: {
+    Authorization: `Bearer ${process.env.HIAPI_API_KEY}`,
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    model: "seedance-2-0",
+    prompt: "Paste a prompt copied from one of the cases above",
+    seconds: "5",
+    resolution: "720p",
+    ratio: "16:9",
+  }),
+});
+
+console.log(await response.json()); // task id; poll the videos endpoint for the final URL
+```
+
 If you want an AI agent to call Seedance 2.0 for you, install the [hiapi-seedance-2-0-video-skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill).
+
+Reference: [API Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Pricing](https://www.hiapi.ai/en/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Dashboard](https://www.hiapi.ai/en/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ---
 
