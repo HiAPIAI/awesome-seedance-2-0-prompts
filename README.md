@@ -18,6 +18,8 @@
 
 > **HiAPI Matrix:** 🎨 [Image Prompts](https://github.com/HiAPIAI/awesome-gpt-image-2-prompts) · 🎬 **Video Prompts (you are here)** · 🛠️ [Agent Skills](https://github.com/HiAPIAI/hiapi-skills) · 🤖 [Remote MCP](https://docs.hiapi.ai/for-ai/) · 📖 [API Docs](https://docs.hiapi.ai)
 
+> Have a Seedance 2.0 prompt with a real rendered clip? **[Submit it via issue template →](https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/issues/new?template=submit-a-prompt.yml)** · [Contributing guide](./CONTRIBUTING.md)
+
 ---
 
 ## What This Is

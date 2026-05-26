@@ -1,0 +1,145 @@
+name: "🎬 Submit a prompt"
+description: "Share a Seedance 2.0 video prompt with a real rendered clip so others can copy and adapt it."
+title: "[prompt] <short title here>"
+labels: ["prompt-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing a prompt! Every entry in this gallery is a recipe a reader can copy and rerun. Before submitting:
+        - You must have a **real video output** (CDN URL, not a screen recording promise).
+        - Attribution is **mandatory** if the prompt or video originated from someone else.
+        - See [CONTRIBUTING.md](https://github.com/HiAPIAI/awesome-seedance-2-0-prompts/blob/main/CONTRIBUTING.md) for the quality bar.
+
+  - type: input
+    id: title_en
+    attributes:
+      label: Title (English)
+      description: A short title, e.g. "Underwater Free Diver"
+      placeholder: "Example: Wuxia Rooftop Chase"
+    validations:
+      required: true
+
+  - type: input
+    id: title_zh
+    attributes:
+      label: 标题（中文，可选）
+      placeholder: "示例：武侠屋顶追击"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which existing category fits best?
+      options:
+        - action-fantasy
+        - cinematic-realism
+        - pov-fpv
+        - commercial-product
+        - reference-driven
+        - surreal-vfx
+        - templates-structured
+        - general-cinematic
+        - other (explain in notes)
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Full prompt
+      description: Paste the complete prompt that produced your clip. Don't summarize.
+      placeholder: "A spear-wielding warrior clashes with..."
+      render: text
+    validations:
+      required: true
+
+  - type: input
+    id: ratio
+    attributes:
+      label: Aspect ratio
+      description: e.g. 16:9, 9:16, 1:1
+      placeholder: "16:9"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: duration
+    attributes:
+      label: Duration
+      options:
+        - "5"
+        - "6"
+        - "7"
+        - "8"
+        - "9"
+        - "10"
+        - "12"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: resolution
+    attributes:
+      label: Resolution
+      options:
+        - 480p
+        - 720p
+        - 1080p
+    validations:
+      required: true
+
+  - type: input
+    id: video_url
+    attributes:
+      label: Video URL
+      description: Direct MP4 URL on a stable CDN (R2 / Vercel Blob / similar). Required.
+      placeholder: "https://cdn.example.com/your-video.mp4"
+    validations:
+      required: true
+
+  - type: textarea
+    id: cover
+    attributes:
+      label: Still-frame cover
+      description: Drag and drop a still frame for the gallery thumbnail (JPG/WebP, ≤ 500 KB).
+    validations:
+      required: true
+
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL (if not yours)
+      description: Original post URL (X / Twitter / blog / etc). Leave empty if this is your own work.
+      placeholder: "https://x.com/yourhandle/status/..."
+    validations:
+      required: false
+
+  - type: input
+    id: author_handle
+    attributes:
+      label: Author handle
+      description: Your handle or the original creator's. We always credit.
+      placeholder: "@yourhandle"
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+      description: Anything else a maintainer should know — variations, audio details, parameter tips.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: "The video URL above was actually generated from this prompt (no fakes, no AI-rewrites of someone else's results)."
+          required: true
+        - label: "If this is not my own work, the source URL and author handle above are correct."
+          required: true
