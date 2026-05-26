@@ -4932,6 +4932,10 @@ Audio: low eerie hum, distant wind, wooden kam
 
 ## 组装为 HiAPI 视频请求
 
+从任意案例复制 prompt，下面三段代码都用同一个端点和 `HIAPI_API_KEY`。返回一个 task id，之后轮询拿成片 URL。
+
+**curl**
+
 ```bash
 curl -X POST "https://api.hiapi.ai/v1/videos" \
   -H "Authorization: Bearer $HIAPI_API_KEY" \
@@ -4945,7 +4949,54 @@ curl -X POST "https://api.hiapi.ai/v1/videos" \
   }'
 ```
 
+**Python**
+
+```python
+import os
+import requests
+
+response = requests.post(
+    "https://api.hiapi.ai/v1/videos",
+    headers={
+        "Authorization": f"Bearer {os.environ['HIAPI_API_KEY']}",
+        "Content-Type": "application/json",
+    },
+    json={
+        "model": "seedance-2-0",
+        "prompt": "把这里换成你从案例里复制的提示词",
+        "seconds": "5",
+        "resolution": "720p",
+        "ratio": "16:9",
+    },
+)
+
+print(response.json())  # task id；轮询 videos 端点获取最终 URL
+```
+
+**Node**
+
+```js
+const response = await fetch("https://api.hiapi.ai/v1/videos", {
+  method: "POST",
+  headers: {
+    Authorization: `Bearer ${process.env.HIAPI_API_KEY}`,
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    model: "seedance-2-0",
+    prompt: "把这里换成你从案例里复制的提示词",
+    seconds: "5",
+    resolution: "720p",
+    ratio: "16:9",
+  }),
+});
+
+console.log(await response.json()); // task id；轮询 videos 端点获取最终 URL
+```
+
 希望让 AI Agent 直接调用 Seedance 2.0，请安装 [hiapi-seedance-2-0-video-skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill)。
+
+Reference: [API Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Pricing](https://www.hiapi.ai/zh/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Dashboard](https://www.hiapi.ai/zh/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
 ---
 

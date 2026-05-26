@@ -21,12 +21,14 @@ const hiapi = {
     key: withUtm("https://www.hiapi.ai/zh/register"),
     model: withUtm("https://www.hiapi.ai/zh/models/seedance-2-0"),
     pricing: withUtm("https://www.hiapi.ai/zh/pricing"),
+    dashboard: withUtm("https://www.hiapi.ai/zh/dashboard"),
   },
   en: {
     home: withUtm("https://www.hiapi.ai/en"),
     key: withUtm("https://www.hiapi.ai/en/register"),
     model: withUtm("https://www.hiapi.ai/en/models/seedance-2-0"),
     pricing: withUtm("https://www.hiapi.ai/en/pricing"),
+    dashboard: withUtm("https://www.hiapi.ai/en/dashboard"),
   },
   docs: withUtm("https://docs.hiapi.ai"),
   skill: "https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill",
@@ -77,7 +79,11 @@ function tHeader(lang) {
         prompt: "完整 Prompt（点击展开）",
       },
       apiTitle: "组装为 HiAPI 视频请求",
-      apiBody: `\`\`\`bash
+      apiBody: `从任意案例复制 prompt，下面三段代码都用同一个端点和 \`HIAPI_API_KEY\`。返回一个 task id，之后轮询拿成片 URL。
+
+**curl**
+
+\`\`\`bash
 curl -X POST "https://api.hiapi.ai/v1/videos" \\
   -H "Authorization: Bearer $HIAPI_API_KEY" \\
   -H "Content-Type: application/json" \\
@@ -90,7 +96,54 @@ curl -X POST "https://api.hiapi.ai/v1/videos" \\
   }'
 \`\`\`
 
-希望让 AI Agent 直接调用 Seedance 2.0，请安装 [hiapi-seedance-2-0-video-skill](${hiapi.skill})。`,
+**Python**
+
+\`\`\`python
+import os
+import requests
+
+response = requests.post(
+    "https://api.hiapi.ai/v1/videos",
+    headers={
+        "Authorization": f"Bearer {os.environ['HIAPI_API_KEY']}",
+        "Content-Type": "application/json",
+    },
+    json={
+        "model": "seedance-2-0",
+        "prompt": "把这里换成你从案例里复制的提示词",
+        "seconds": "5",
+        "resolution": "720p",
+        "ratio": "16:9",
+    },
+)
+
+print(response.json())  # task id；轮询 videos 端点获取最终 URL
+\`\`\`
+
+**Node**
+
+\`\`\`js
+const response = await fetch("https://api.hiapi.ai/v1/videos", {
+  method: "POST",
+  headers: {
+    Authorization: \`Bearer \${process.env.HIAPI_API_KEY}\`,
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    model: "seedance-2-0",
+    prompt: "把这里换成你从案例里复制的提示词",
+    seconds: "5",
+    resolution: "720p",
+    ratio: "16:9",
+  }),
+});
+
+console.log(await response.json()); // task id；轮询 videos 端点获取最终 URL
+\`\`\`
+
+希望让 AI Agent 直接调用 Seedance 2.0，请安装 [hiapi-seedance-2-0-video-skill](${hiapi.skill})。
+
+Reference: [API Docs](${hiapi.docs}) · [Pricing](${hiapi.zh.pricing}) · [Dashboard](${hiapi.zh.dashboard})`,
       ctaTitle: "开始生成",
       ctaText: "Seedance 2.0、HappyHorse 1.0、GPT Image 2 等主流模型，一个 API Key 统一接入，按量计费无需订阅。",
       ctaButtons: [
@@ -140,7 +193,11 @@ curl -X POST "https://api.hiapi.ai/v1/videos" \\
       prompt: "Full prompt (click to expand)",
     },
     apiTitle: "Build the HiAPI Video Request",
-    apiBody: `\`\`\`bash
+    apiBody: `Copy a prompt from any case and drop it into any snippet below — same endpoint, same \`HIAPI_API_KEY\`. The call returns a task id; poll the videos endpoint for the final URL.
+
+**curl**
+
+\`\`\`bash
 curl -X POST "https://api.hiapi.ai/v1/videos" \\
   -H "Authorization: Bearer $HIAPI_API_KEY" \\
   -H "Content-Type: application/json" \\
@@ -153,7 +210,54 @@ curl -X POST "https://api.hiapi.ai/v1/videos" \\
   }'
 \`\`\`
 
-If you want an AI agent to call Seedance 2.0 for you, install the [hiapi-seedance-2-0-video-skill](${hiapi.skill}).`,
+**Python**
+
+\`\`\`python
+import os
+import requests
+
+response = requests.post(
+    "https://api.hiapi.ai/v1/videos",
+    headers={
+        "Authorization": f"Bearer {os.environ['HIAPI_API_KEY']}",
+        "Content-Type": "application/json",
+    },
+    json={
+        "model": "seedance-2-0",
+        "prompt": "Paste a prompt copied from one of the cases above",
+        "seconds": "5",
+        "resolution": "720p",
+        "ratio": "16:9",
+    },
+)
+
+print(response.json())  # task id; poll the videos endpoint for the final URL
+\`\`\`
+
+**Node**
+
+\`\`\`js
+const response = await fetch("https://api.hiapi.ai/v1/videos", {
+  method: "POST",
+  headers: {
+    Authorization: \`Bearer \${process.env.HIAPI_API_KEY}\`,
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    model: "seedance-2-0",
+    prompt: "Paste a prompt copied from one of the cases above",
+    seconds: "5",
+    resolution: "720p",
+    ratio: "16:9",
+  }),
+});
+
+console.log(await response.json()); // task id; poll the videos endpoint for the final URL
+\`\`\`
+
+If you want an AI agent to call Seedance 2.0 for you, install the [hiapi-seedance-2-0-video-skill](${hiapi.skill}).
+
+Reference: [API Docs](${hiapi.docs}) · [Pricing](${hiapi.en.pricing}) · [Dashboard](${hiapi.en.dashboard})`,
     ctaTitle: "Generate",
     ctaText: "Seedance 2.0, HappyHorse 1.0, GPT Image 2, and more — one API key, pay-as-you-go, no subscription.",
     ctaButtons: [
