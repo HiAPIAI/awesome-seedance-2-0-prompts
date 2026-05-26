@@ -22,6 +22,27 @@
 
 ---
 
+<div align="center">
+
+<h3>精选案例预览</h3>
+
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top"><a href="#action-fantasy"><img src="assets/previews/021.jpg" width="240" alt="动作与奇幻"></a><br><sub><b>动作与奇幻</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#cinematic-realism"><img src="assets/previews/045.jpg" width="240" alt="电影级写实"></a><br><sub><b>电影级写实</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#pov-fpv"><img src="assets/previews/004.jpg" width="240" alt="第一视角与穿越机"></a><br><sub><b>第一视角与穿越机</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#commercial-product"><img src="assets/previews/007.jpg" width="240" alt="商业广告与产品"></a><br><sub><b>商业广告与产品</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top"><a href="#reference-driven"><img src="assets/previews/011.jpg" width="240" alt="参考图驱动"></a><br><sub><b>参考图驱动</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#vfx-surreal"><img src="assets/previews/013.jpg" width="240" alt="特效与超现实"></a><br><sub><b>特效与超现实</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#templates"><img src="assets/previews/016.jpg" width="240" alt="模板与结构化提示"></a><br><sub><b>模板与结构化提示</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#general-cinematic"><img src="assets/previews/001.jpg" width="240" alt="通用电影叙事"></a><br><sub><b>通用电影叙事</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
 ## 这是什么
 
 `Awesome Seedance 2.0 Prompts` 是一份针对 [Seedance 2.0](https://www.hiapi.ai/zh/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) 的视频提示词案例画廊。163 个案例覆盖 8 个分类，每条都包含**真实视频片段**、**完整 Prompt** 和**原作者署名**，复制即可在 HiAPI 跑通。

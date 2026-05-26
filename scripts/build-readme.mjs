@@ -357,6 +357,36 @@ function render(lang) {
   out.push("");
   out.push("---");
   out.push("");
+
+  // Hero preview grid: one still per category, links to the case page
+  const heroHeading = lang === "zh" ? "精选案例预览" : "Featured Cases";
+  const cellsPerRow = 4;
+  const cells = data.categories
+    .map((category) => {
+      const first = data.items.find((it) => it.category === category.id);
+      if (!first || !first.preview_image) return null;
+      const catName = lang === "zh" ? (category.zh || category.en) : (category.en || category.zh);
+      const slug = category.id;
+      return `    <td align="center" width="25%" valign="top"><a href="#${slug}"><img src="${first.preview_image}" width="240" alt="${catName}"></a><br><sub><b>${catName}</b></sub></td>`;
+    })
+    .filter(Boolean);
+  if (cells.length) {
+    out.push(`<div align="center">`);
+    out.push("");
+    out.push(`<h3>${heroHeading}</h3>`);
+    out.push("");
+    out.push(`<table>`);
+    for (let i = 0; i < cells.length; i += cellsPerRow) {
+      out.push(`  <tr>`);
+      out.push(cells.slice(i, i + cellsPerRow).join("\n"));
+      out.push(`  </tr>`);
+    }
+    out.push(`</table>`);
+    out.push("");
+    out.push(`</div>`);
+    out.push("");
+  }
+
   out.push(t.intro);
   out.push("");
   out.push("---");

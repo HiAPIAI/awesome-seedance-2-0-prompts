@@ -22,6 +22,27 @@
 
 ---
 
+<div align="center">
+
+<h3>Featured Cases</h3>
+
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top"><a href="#action-fantasy"><img src="assets/previews/021.jpg" width="240" alt="Action / Fantasy"></a><br><sub><b>Action / Fantasy</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#cinematic-realism"><img src="assets/previews/045.jpg" width="240" alt="Cinematic Realism"></a><br><sub><b>Cinematic Realism</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#pov-fpv"><img src="assets/previews/004.jpg" width="240" alt="POV / FPV"></a><br><sub><b>POV / FPV</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#commercial-product"><img src="assets/previews/007.jpg" width="240" alt="Commercial / Product"></a><br><sub><b>Commercial / Product</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top"><a href="#reference-driven"><img src="assets/previews/011.jpg" width="240" alt="Reference-Driven"></a><br><sub><b>Reference-Driven</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#vfx-surreal"><img src="assets/previews/013.jpg" width="240" alt="Surreal / VFX"></a><br><sub><b>Surreal / VFX</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#templates"><img src="assets/previews/016.jpg" width="240" alt="Templates & Structured Formats"></a><br><sub><b>Templates & Structured Formats</b></sub></td>
+    <td align="center" width="25%" valign="top"><a href="#general-cinematic"><img src="assets/previews/001.jpg" width="240" alt="General Cinematic"></a><br><sub><b>General Cinematic</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
 ## What This Is
 
 `Awesome Seedance 2.0 Prompts` is a curated video prompt gallery for [Seedance 2.0](https://www.hiapi.ai/en/models/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts). 163 cases across 8 categories, each shipped with a **real video preview**, the **full prompt**, and the **original creator handle** — copy and run on HiAPI.
