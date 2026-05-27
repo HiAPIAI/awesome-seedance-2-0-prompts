@@ -5017,7 +5017,7 @@ const response = await fetch("https://api.hiapi.ai/v1/videos", {
 console.log(await response.json()); // task id；轮询 videos 端点获取最终 URL
 ```
 
-希望让 AI Agent 直接调用 Seedance 2.0，请安装 [hiapi-seedance-2-0-video-skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill)。
+希望让 AI Agent 直接调用 Seedance 2.0，请安装 [hiapi-seedance-2-0-video-skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill)。如果只有一两句话的简报，需要先得到一份分镜级提示词再生成，搭配使用 [hiapi-video-prompt-generator-skill](https://github.com/HiAPIAI/hiapi-video-prompt-generator-skill)。
 
 Reference: [API Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Pricing](https://www.hiapi.ai/zh/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Dashboard](https://www.hiapi.ai/zh/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 

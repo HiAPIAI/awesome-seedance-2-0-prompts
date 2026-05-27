@@ -5017,7 +5017,7 @@ const response = await fetch("https://api.hiapi.ai/v1/videos", {
 console.log(await response.json()); // task id; poll the videos endpoint for the final URL
 ```
 
-If you want an AI agent to call Seedance 2.0 for you, install the [hiapi-seedance-2-0-video-skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill).
+If you want an AI agent to call Seedance 2.0 for you, install the [hiapi-seedance-2-0-video-skill](https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill). For a one-line brief that should become a directed, scene-by-scene prompt before generating, pair it with the [hiapi-video-prompt-generator-skill](https://github.com/HiAPIAI/hiapi-video-prompt-generator-skill).
 
 Reference: [API Docs](https://docs.hiapi.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Pricing](https://www.hiapi.ai/en/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts) · [Dashboard](https://www.hiapi.ai/en/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-0-prompts)
 
