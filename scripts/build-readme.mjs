@@ -34,6 +34,7 @@ const hiapi = {
   skill: "https://github.com/HiAPIAI/hiapi-seedance-2-0-video-skill",
   skillsHub: "https://github.com/HiAPIAI/hiapi-skills",
   promptsImage: "https://github.com/HiAPIAI/awesome-gpt-image-2-prompts",
+  videoPromptGenerator: "https://github.com/HiAPIAI/hiapi-video-prompt-generator-skill",
 };
 
 function badgeImg(label, color) {
@@ -141,7 +142,7 @@ const response = await fetch("https://api.hiapi.ai/v1/videos", {
 console.log(await response.json()); // task id；轮询 videos 端点获取最终 URL
 \`\`\`
 
-希望让 AI Agent 直接调用 Seedance 2.0，请安装 [hiapi-seedance-2-0-video-skill](${hiapi.skill})。
+希望让 AI Agent 直接调用 Seedance 2.0，请安装 [hiapi-seedance-2-0-video-skill](${hiapi.skill})。如果只有一两句话的简报，需要先得到一份分镜级提示词再生成，搭配使用 [hiapi-video-prompt-generator-skill](${hiapi.videoPromptGenerator})。
 
 Reference: [API Docs](${hiapi.docs}) · [Pricing](${hiapi.zh.pricing}) · [Dashboard](${hiapi.zh.dashboard})`,
       ctaTitle: "开始生成",
@@ -255,7 +256,7 @@ const response = await fetch("https://api.hiapi.ai/v1/videos", {
 console.log(await response.json()); // task id; poll the videos endpoint for the final URL
 \`\`\`
 
-If you want an AI agent to call Seedance 2.0 for you, install the [hiapi-seedance-2-0-video-skill](${hiapi.skill}).
+If you want an AI agent to call Seedance 2.0 for you, install the [hiapi-seedance-2-0-video-skill](${hiapi.skill}). For a one-line brief that should become a directed, scene-by-scene prompt before generating, pair it with the [hiapi-video-prompt-generator-skill](${hiapi.videoPromptGenerator}).
 
 Reference: [API Docs](${hiapi.docs}) · [Pricing](${hiapi.en.pricing}) · [Dashboard](${hiapi.en.dashboard})`,
     ctaTitle: "Generate",
